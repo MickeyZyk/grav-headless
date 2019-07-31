@@ -1,4 +1,4 @@
 ---
-title: delete
+title: 'delete me'
 ---
 
