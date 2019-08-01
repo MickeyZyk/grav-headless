@@ -32,6 +32,9 @@ svg_icons:
     -
         svg: bang.svg
         svg_text: INNOVATION
+    -
+        svg: phones.svg
+        svg_text: 'ANALYTICS &  ON-LINE COMMUNITY'
 media: 'hairguy.jpg,desk.jpg,target.svg,bang.svg,bulb.svg,fiver.svg,gauge.svg,graph.svg,network.svg,phones.svg,rainbow.svg'
 ---
 
