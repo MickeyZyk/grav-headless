@@ -1,5 +1,5 @@
 ---
-title: 'About Us'
+title: 'About Us One'
 heading_one: 'Who we are'
 subheading_one: 'A space for creative people with amazing ideas.'
 image_one: painter.jpg
