@@ -24,6 +24,5 @@ bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will hav
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
 link_two: /contact
 link_two_text: ' JOIN US'
-media: 'girl.svg,kid.svg,afro.svg,fireman.svg,mlada.svg,vial.svg,granny.svg,smart.svg,dude.svg,hip.svg,nerd.svg'
 ---
 
