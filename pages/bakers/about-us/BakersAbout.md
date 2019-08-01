@@ -2,8 +2,10 @@
 title: 'About Us'
 heading_one: 'Who we are'
 subheading_one: 'A space for creative people with amazing ideas.'
+image_one: painter.jpg
 paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where the idea creators – who we call BAKERS get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We want to give everybody a chance to contribute. We believe the more idea makers we have, the more we can all move forward.'
 subheading_two: 'We are a group of enthusiasts and passionate thinkers'
+image_two: hairguy.jpg
 paragraph_two: 'We believe that a great idea can pop up anywhere: in a bar, during a wonderfully peaceful weekend, while running, before going to bed, while chatting with your loved one, from a student, retiree or stay-at-home mom or dad.'
 link_one: /contact
 link_one_text: 'JOIN US'
