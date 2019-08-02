@@ -24,6 +24,6 @@ link_two: /contact
 link_two_text: 'START A PROJECT WITH US'
 image_two: nail_sharpener.jpg
 heading_three: 'What we do?'
-media: 'crowders_cone.jpg,nail_sharpener.jpg,crowders_clipboard.svg,crowders_tablet.svg,crowders_turntable.svg,crowders_arrowz.svg'
+media: 'crowders_cone.jpg,crowders_turntable.svg,crowders_clipboard.svg,crowders_tablet.svg,crowders_arrowz.svg,nail_sharpener.jpg,gauge.svg,graph.svg,network.svg,rainbow.svg,target.svg,bulb.svg'
 ---
 
