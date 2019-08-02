@@ -2,10 +2,6 @@ enabled: true
 folders:
   - pages
   - themes
-  - plugins
-  - data
-  - config
-  - accounts
 sync:
   on_save: false
   on_delete: false
