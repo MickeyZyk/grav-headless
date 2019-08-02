@@ -7,6 +7,23 @@ link_one: /contact
 link_one_text: 'START A PROJECT WITH US'
 heading_two: 'How we do it'
 subheading_two: 'There are 4 key phases to demonstrate our method to create demand.'
+svg_icons:
+    -
+        svg: crowders_arrowz.svg
+        svg_text: 'CHANGE THEME IDENTIFICATION'
+    -
+        svg: crowders_turntable.svg
+        svg_text: 'THEME/TOPIC AMPLIFICATION'
+    -
+        svg: crowders_tablet.svg
+        svg_text: 'COMMUNITY BUILD UP'
+    -
+        svg: crowders_clipboard.svg
+        svg_text: 'DEMAND AND CONTENT'
+link_two: /contact
+link_two_text: 'START A PROJECT WITH US'
+image_two: nail_sharpener.jpg
+heading_three: 'What we do?'
 media: 'crowders_cone.jpg,nail_sharpener.jpg,crowders_clipboard.svg,crowders_tablet.svg,crowders_turntable.svg,crowders_arrowz.svg'
 ---
 
