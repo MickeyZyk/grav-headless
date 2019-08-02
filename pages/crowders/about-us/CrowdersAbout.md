@@ -7,5 +7,6 @@ link_one: /contact
 link_one_text: 'START A PROJECT WITH US'
 heading_two: 'How we do it'
 subheading_two: 'There are 4 key phases to demonstrate our method to create demand.'
+media: 'crowders_cone.jpg,nail_sharpener.jpg,crowders_clipboard.svg,crowders_tablet.svg,crowders_turntable.svg,crowders_arrowz.svg'
 ---
 
