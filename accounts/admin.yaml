@@ -1,0 +1,11 @@
+state: enabled
+email: dalibor.ilic.dado@gmail.com
+fullname: 'Dalibor Ilić'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$XlTrTVy3q0E/8n1yeW3c5ujSPB4D00/ApcCkqwJQFnRXdtvLOgUp6

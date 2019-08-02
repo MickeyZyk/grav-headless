@@ -1,0 +1,31 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - data
+  - config
+  - accounts
+sync:
+  on_save: false
+  on_delete: false
+  on_media: false
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+repository: 'https://github.com/DaliborIlic/grav-headless.git'
+user: dalibor.ilic.dado@gmail.com
+webhook: 'https://api.netlify.com/build_hooks/5d408a449f16a47b92d69114'
+webhook_enabled: '0'
+webhook_secret: 37e983740afce301f69e0125347364fdd9ac2625db6cc76c
+branch: master
+remote:
+  name: origin
+  branch: master
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+logging: false
+password: gitsync-def50200be5acaec89c862f1069e7946d60acf3a87de1593b846377feb6dd1566b75505f1f013191740655dd381cd9d74678f373b218f6159dd42021f684cc3189118b1f42347559ad996a706cafde4d673fe9c093681777be3fab02d0fa2066e0dc
