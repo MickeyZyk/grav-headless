@@ -1,4 +1,5 @@
 ---
+title: Slide1
 name: Slide1
 heading: 'THE FUTURE IS HERE'
 subheading: 'Top creative and strategic minds joined forces with the largest crowd of consumers'
@@ -10,6 +11,5 @@ image:
         size: 187744
         path: assets/uploads/dude.jpg
 subheader: 'Top creative and strategic minds joined forces with the largest crowd of consumers.'
-title: Slide1
 ---
 
