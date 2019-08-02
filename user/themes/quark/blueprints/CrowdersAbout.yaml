@@ -1,0 +1,94 @@
+title: bakeryAbout
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        page:
+          type: tab
+          title: 'Crowders - About us'
+          fields:
+            header.title:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Title of the page - e.g. About Us'
+            header.heading_one:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Heading -  e.g. About us'
+            header.image_one:
+              label: 'Choose the main image from available media'
+              type: pagemediaselect           
+            header.paragraph_one:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'The first paragraph'
+            header.link_one:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Link, e.g. /project - dont forget the slash!'
+            header.link_one_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Link text - e.g. START A PROJECT WITH US'
+            header.heading_two:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: '2nd Heading (white) -  e.g. How we do it...'
+            header.subheading_two:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: '2nd subheading -  e.g. There are 4 key phases to demonstrate our method to create demand.'
+            header.svg_icons:
+              name: svg_icons
+              type: list
+              style: vertical
+              label: 'Key phases icons and text'
+              fields:
+                .svg:
+                  label: 'Choose the first image from available media'
+                  type: pagemediaselect 
+                .svg_text:
+                  type: text
+                  label: 'Text for the icon'
+            header.link_two:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Button link, e.g. /project - dont forget the slash!'
+            header.link_two_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: button text - e.g. START A PROJECT WITH US
+            header.image_two:
+              label: 'Choose the 2nd image from available media'
+              type: pagemediaselect  
+            header.heading_three:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: '3rd Heading - e.g. What we do?'
+            header.svg_icons_two:
+              name: svg_icons_two
+              type: list
+              style: vertical
+              label: 'Text and icons'
+              fields:
+                .svg_two:
+                  label: 'Choose the SVG image from available media'
+                  type: pagemediaselect 
+                .svg_text_two:
+                  type: text
+                  label: 'Text for the SVG icon'
+            header.media:
+              label: 'Upload all the media here, save the article, and you can use them in fields'
+              type: pagemedia

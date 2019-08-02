@@ -1,0 +1,37 @@
+title: bakerySlider
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        page:
+          type: tab
+          title: 'Bakery - Homepage Slider'
+          fields:
+            header.title:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Title of the Slide - e.g. The Future'
+            header.heading:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'Slide heading, e.g. THE FUTURE IS HERE'
+            header.subheading:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'Slide subheading, e.g. Top creative and strategic minds joined forces with the largest crowd of consumers'
+            header.link:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Slider link - e.g. /bakeryabout - dont forget the slash!'
+            header.image:
+              label: 'Choose the Slider image from available media'
+              type: pagemediaselect
+            header.media:
+              label: 'Upload all the media here, save the article, and you can use them in fields'
+              type: pagemedia
