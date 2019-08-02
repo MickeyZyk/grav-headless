@@ -24,6 +24,25 @@ link_two: /contact
 link_two_text: 'START A PROJECT WITH US'
 image_two: nail_sharpener.jpg
 heading_three: 'What we do?'
+svg_icons_two:
+    -
+        svg_two: rainbow.svg
+        svg_text_two: 'COMMUNITY BUILDING'
+    -
+        svg_two: graph.svg
+        svg_text_two: 'STRATEGIC PLANNING & CONSULTANCY'
+    -
+        svg_two: target.svg
+        svg_text_two: 'CREATIVE STRATEGY'
+    -
+        svg_two: network.svg
+        svg_text_two: 'CAMPAIGN PLANNING'
+    -
+        svg_two: gauge.svg
+        svg_text_two: 'CAMPAIGN DEVELOPMENT & PRODUCTION'
+    -
+        svg_two: bulb.svg
+        svg_text_two: IDEATION
 media: 'crowders_cone.jpg,crowders_turntable.svg,crowders_clipboard.svg,crowders_tablet.svg,crowders_arrowz.svg,nail_sharpener.jpg,gauge.svg,graph.svg,network.svg,rainbow.svg,target.svg,bulb.svg'
 ---
 
