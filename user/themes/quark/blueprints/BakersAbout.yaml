@@ -1,0 +1,157 @@
+title: bakeryAbout
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        page:
+          type: tab
+          title: 'Bakers - About us'
+          fields:
+            header.title:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Title of the page - e.g. About Us'
+            header.heading_one:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Heading -  e.g. Who we are'
+            header.subheading_one:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Subheading -  e.g. A space for creative people with amazing ideas.'
+            header.image_one:
+              label: 'Choose the main image from available media'
+              type: pagemediaselect           
+            header.paragraph_one:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'The first paragraph'
+            header.subheading_two:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: '2nd subheading -  e.g. We are a group of enthusiasts and passionate thinkers'
+            header.image_two:
+              label: 'Choose the 2nd image from available media'
+              type: pagemediaselect   
+            header.paragraph_two:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'The second paragraph'
+            header.link_one:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Link, e.g. /project - dont forget the slash!'
+            header.link_one_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Link text - e.g. JOIN US'
+            header.problem_heading_one:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 1st heading, e.g. Problem'
+            header.problem_heading_two:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 2nd heading, e.g. Spousta lidy spousta napadu'
+            header.problem_heading_three:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 3rd heading, e.g. Reseni'
+            header.problem_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 1st text, e.g. The name for the fishermans beer'
+            header.icon01_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 1st icon text, e.g. Marketa grafik miluje horska kola'
+            header.icon02_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 2nd icon text, e.g. Marketa grafik miluje horska kola'
+            header.icon03_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 3rd icon text, e.g. Honza marketer miluje reklamu'
+            header.icon04_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 4th icon text, e.g. Marketa grafik miluje horska kola'
+            header.icon05_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 5th icon text, e.g. Honza marketer miluje reklamu'
+            header.icon06_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 6th icon text, e.g. Karel hasic'
+            header.icon07_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Animated section 7th icon text, e.g. Marketa grafik miluje horska kola'
+            header.team_heading:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Team section headin, e.g. Who is behind the scenes of Future Bakers?'
+            header.bakers_heading:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Team section headin, e.g. Who is behind the scenes of Future Bakers?'
+            header.bakers_paragraph_one:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'Bakers section -  top paragraph in bold, e.g. Let your creativity shine and your ideas out... '
+            header.bakers_paragraph_two:
+              type: textarea
+              autofocus: true
+              style: vertical
+              label: 'Bakers section -  bottom paragraph, e.g. Are you always thinking of that next wonderful product ... '
+            header.link_two:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Bakers section link, e.g. /project - dont forget the slash!'
+            header.link_two_text:
+              type: text
+              autofocus: true              
+              style: vertical
+              label: 'Bakers section link text - e.g. JOIN US' 
+            header.svg_icons:
+              name: svg_icons
+              type: list
+              style: vertical
+              label: 'Six steps icons and text'
+              fields:
+                .svg:
+                  label: 'Choose the image from available media'
+                  type: pagemediaselect 
+                .svg_text:
+                  type: text
+                  label: 'Text for the icon'
+            header.media:
+              label: 'Upload all the media here, save the article, and you can use them in fields'
+              type: pagemedia
