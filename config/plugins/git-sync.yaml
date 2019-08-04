@@ -1,13 +1,12 @@
 enabled: true
 folders:
   - pages
-  - themes
 sync:
   on_save: false
   on_delete: false
   on_media: false
-  cron_enable: false
-  cron_at: '0 12,23 * * *'
+  cron_enable: true
+  cron_at: '1 * * * *'
 repository: 'https://github.com/DaliborIlic/grav-headless.git'
 user: dalibor.ilic.dado@gmail.com
 webhook: 'https://api.netlify.com/build_hooks/5d408a449f16a47b92d69114'
@@ -19,9 +18,9 @@ remote:
   branch: master
 git:
   author: gituser
-  message: '(Grav GitSync) Automatic Commit'
+  message: 'Sync from future.stratego.ba'
   name: GitSync
-  email: git-sync@trilby.media
+  email: dalibor.ilic.dado@gmail.com
   bin: git
 logging: false
 password: gitsync-def50200be5acaec89c862f1069e7946d60acf3a87de1593b846377feb6dd1566b75505f1f013191740655dd381cd9d74678f373b218f6159dd42021f684cc3189118b1f42347559ad996a706cafde4d673fe9c093681777be3fab02d0fa2066e0dc
