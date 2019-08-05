@@ -2,11 +2,11 @@ enabled: true
 folders:
   - pages
 sync:
-  on_save: true
-  on_delete: true
-  on_media: true
+  on_save: false
+  on_delete: false
+  on_media: false
   cron_enable: true
-  cron_at: '1 * * * *'
+  cron_at: '5 * * * *'
 repository: 'https://github.com/DaliborIlic/grav-headless.git'
 user: dalibor.ilic.dado@gmail.com
 webhook: 'https://api.netlify.com/build_hooks/5d408a449f16a47b92d69114'
