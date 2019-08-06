@@ -1,15 +1,16 @@
 ---
-title: Mazda
-logo_dark: dark_logo_fiat.png
-heading_one: 'How do you explain and sell the legal insurance to people that are afraid of lawyers and hate insurance houses?'
-one_way: 'Tell the consumers about unique benefits of your product.'
-new_way: 'How about not selling insurance, but help the good instead?'
+title: Staropramen
+logo_dark: 'Logo_Pivovary Staropramen-a.jpg'
+heading_tag: 'Strategic Planning & Consultancy, Creative Strategy'
+heading_one: 'How to kick a national brand of beer? How to help it grow?'
+one_way: 'Play in the area go the beer fun (That’s nobody believes is actually funny)'
+new_way: 'Exploring the place of origin, its people and their specific way of life.'
 big_image: fiat_video.jpg
-video: 9HQLdSHOHxU
-logo_light: light_logo_fiat.png
+video: 'https://youtu.be/KCela48LYuo'
+logo_light: 'Logo_Pivovary Staropramen-a.jpg'
 category: AWARD
-category_name: 'FIAT 500X'
-heading_two: 'BEAUTY AND FUNCTION COMBINED'
-media: 'dark_logo_fiat.png,fiat_video.jpg,light_logo_fiat.png'
+category_name: '???'
+heading_two: 'Staropramen CaseStudy'
+media: 'Logo_Pivovary Staropramen-a.jpg'
 ---
 

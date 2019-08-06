@@ -1,15 +1,16 @@
 ---
 title: Fiat
 logo_dark: dark_logo_fiat.png
-heading_one: 'How do you explain and sell the legal insurance to people that are afraid of lawyers and hate insurance houses?'
-one_way: 'Tell the consumers about unique benefits of your product.'
-new_way: 'How about not selling insurance, but help the good instead?'
+heading_tag: Ideation
+heading_one: 'How to launch a new crossover blending design & practicality to women in overcrowded market?'
+one_way: 'Use TV and mass marketing to get the message across.'
+new_way: 'How about giving your future customers a chance to come up with their own view of practicality?'
 big_image: fiat_video.jpg
-video: 9HQLdSHOHxU
+video: 'https://youtu.be/nq2_TJRua0A'
 logo_light: light_logo_fiat.png
 category: AWARD
 category_name: 'FIAT 500X'
-heading_two: 'BEAUTY AND FUNCTION COMBINED'
+heading_two: 'HERE WE NEED A HEADLINE'
 media: 'dark_logo_fiat.png,light_logo_fiat.png,fiat_video.jpg'
 ---
 

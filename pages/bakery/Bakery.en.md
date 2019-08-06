@@ -6,10 +6,20 @@ slider:
         link: /bakery-about
         image: image.jpg
     -
-        title: 'EXAMPLE HEADING PLACEHOLDER'
-        subheading: 'Largest crowd of consumers joined forces with the top creative and strategic minds'
+        title: 'TRUE INSIGHTS'
+        subheading: 'We are eager to hear and listen to the crowd'
         link: /bakery-about
         image: dude.jpg
+    -
+        title: 'FRESH IDEAS'
+        subheading: 'Original content by and for your future consumers'
+        link: /bakery-about
+        image: dogs.jpg
+    -
+        title: 'INNOVATIONS AND IDEAS FOR REAL LIFE'
+        subheading: 'Innovations and ideas for real life'
+        link: /bakery-about
+        image: desk.jpg
 media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
 title: Bakery
 visible: false
