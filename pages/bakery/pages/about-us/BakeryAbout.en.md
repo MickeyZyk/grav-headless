@@ -35,6 +35,15 @@ svg_icons:
     -
         svg: phones.svg
         svg_text: 'ANALYTICS &  ON-LINE COMMUNITY'
-media: 'hairguy.jpg,desk.jpg,target.svg,bang.svg,bulb.svg,fiver.svg,gauge.svg,graph.svg,network.svg,phones.svg,rainbow.svg'
+logos:
+    -
+        logotype: about_fiat_logo.png
+    -
+        logotype: about_nike_logo.png
+    -
+        logotype: remax.png
+    -
+        logotype: logo_pscp.png
+media: 'network.svg,target.svg,bulb.svg,phones.svg,fiver.svg,rainbow.svg,bang.svg,hairguy.jpg,about_fiat_logo.png,graph.svg,desk.jpg,gauge.svg,about_nike_logo.png,remax.png,logo_pscp.png'
 ---
 
