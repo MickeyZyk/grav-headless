@@ -2,9 +2,9 @@ enabled: true
 folders:
   - pages
 sync:
-  on_save: false
-  on_delete: false
-  on_media: false
+  on_save: true
+  on_delete: true
+  on_media: true
   cron_enable: true
   cron_at: '5 * * * *'
 repository: 'https://github.com/DaliborIlic/grav-headless.git'
