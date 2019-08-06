@@ -7,7 +7,7 @@ slider:
         image: bakers_01.jpg
     -
         title: 'EXAMPLE HEADING PLACEHOLDER'
-        subheading: 'Many variations of Lorem Ipsum exist today, the text includes humorous phrases.'
+        subheading: 'Many variations of text.'
         link: /bakers-about
         image: dude.jpg
 media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
