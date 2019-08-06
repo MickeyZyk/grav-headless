@@ -1,6 +1,4 @@
 ---
-title: Crowders
-visible: false
 slider:
     -
         title: 'THE FUTURE IS HERE'
@@ -13,5 +11,7 @@ slider:
         link: /bakeryabout
         image: dude.jpg
 media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
+title: Crowders
+visible: false
 ---
 
