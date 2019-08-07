@@ -1,10 +1,8 @@
 enabled: true
-folders:
-  - pages
 sync:
-  on_save: false
-  on_delete: false
-  on_media: false
+  on_save: true
+  on_delete: true
+  on_media: true
   cron_enable: true
   cron_at: '5 * * * *'
 repository: 'https://github.com/DaliborIlic/grav-headless.git'
@@ -23,4 +21,6 @@ git:
   email: dalibor.ilic.dado@gmail.com
   bin: git
 logging: false
+folders:
+  - pages
 password: gitsync-def50200ca0245a42f66369bcce620d299324ae53a82bf2661d60e3cbcb80ef90d440d506d2fc1e61a344872fb3fec3e7c02c69ebc8fb053825c02a0852cda63b97dcb55e5beab9e3173905f4a9f18b66fec06acee3e1a83ea94e8360edb05170a3a

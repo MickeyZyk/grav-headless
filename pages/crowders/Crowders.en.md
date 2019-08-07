@@ -1,16 +1,16 @@
 ---
 slider:
     -
-        title: 'WE SEEK AND DEVELOP CROSS-SOCIAL TOPICS.'
-        subheading: 'Top creative and strategic minds joined forces with the largest crowd of consumers.'
+        title: 'WE SEEK AND DEVELOP CROSS-SOCIAL TOPICS'
+        subheading: 'Team of thousands individuals strong in opinion and power to change things'
         link: /crowders-about
         image: crowders_01.jpg
     -
-        title: 'EXAMPLE HEADING PLACEHOLDER'
-        subheading: 'Many variations of Lorem Ipsum exist today, the text includes humorous phrases.'
+        title: 'WE FORM SPECIFIC INTEREST GROUPS'
+        subheading: 'Team of thousands individuals strong in opinion and power to change things'
         link: /crowders-about
-        image: dude.jpg
-media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
+        image: shutterstock_1043564689_small.jpg
+media: 'crowders_01.jpg,shutterstock_1043564689_small.jpg'
 title: Crowders
 visible: false
 ---

@@ -1,16 +1,21 @@
 ---
 slider:
     -
-        title: 'UNLEASH YOUR CREATIVITY AND IDEAS.'
-        subheading: 'Top creative and strategic minds joined forces with the largest crowd of consumers.'
+        title: 'UNLEASH YOUR CREATIVITY AND IDEAS'
+        subheading: 'The largest creative and innovation platform in the Czech Republic'
         link: /bakers-about
         image: bakers_01.jpg
     -
-        title: 'EXAMPLE HEADING PLACEHOLDER'
-        subheading: 'Many variations of text.'
+        title: 'CREATE FUTURE WITH US'
+        subheading: 'Join thousands of other creative souls who are eager to hare ideas '
         link: /bakers-about
-        image: dude.jpg
-media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
+        image: shutterstock_770336959_small.jpg
+    -
+        title: 'JOIN THOUSANDS OF OTHER'
+        subheading: 'Come and work with our team of strategic and creative minds'
+        link: /bakers-about
+        image: shutterstock_150332981_small.jpg
+media: 'shutterstock_770336959_small.jpg,bakers_01.jpg,shutterstock_150332981_small.jpg'
 title: Bakers
 visible: false
 ---
