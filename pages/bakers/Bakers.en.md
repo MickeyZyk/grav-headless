@@ -11,7 +11,7 @@ slider:
         link: /bakers-about
         image: shutterstock_770336959_small.jpg
     -
-        title: 'JOIN THOUSANDS OF OTHER'
+        title: 'JOIN THOUSANDS OF OTHERS'
         subheading: 'Come and work with our team of strategic and creative minds'
         link: /bakers-about
         image: shutterstock_150332981_small.jpg
