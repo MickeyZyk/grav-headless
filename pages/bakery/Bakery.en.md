@@ -17,7 +17,7 @@ slider:
         image: dogs.jpg
     -
         title: 'INNOVATIONS AND IDEAS FOR REAL LIFE'
-        subheading: 'Innovations and ideas for real life'
+        subheading: 'Not the presentation decks'
         link: /bakery-about
         image: desk.jpg
 media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
