@@ -4,7 +4,7 @@ heading_tag: 'Creative Strategy'
 heading_one: 'Clients tagline'
 paragraph: 'Opening the topic of The rights to gay marriage. Platform for social opinion, approach and questions on topic “What is fair”. Creating nationwide topic. Natural influence on politicians and major opinion.'
 big_image: fiat_video.jpg
-video: 9HQLdSHOHxU
+video: 'https://www.youtube.com/watch?v=4JJCQN0qKOg'
 logo_light: light_logo_fiat.png
 heading_two: 'CLIENTS TAGLINE'
 media: 'dark_logo_fiat.png,fiat_video.jpg,light_logo_fiat.png'
