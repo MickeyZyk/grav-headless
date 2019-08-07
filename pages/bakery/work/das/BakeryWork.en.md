@@ -8,7 +8,7 @@ new_way: 'How about not selling insurance, but “help the good ” instead?'
 big_image: DAS_video_back.jpg
 video: 'https://youtu.be/y2Q2tjT8qh4'
 logo_light: DAS.png
-heading_two: 'COLLECTIVE INTELLIGENCE AND CREATIVE POWER IN ACTION'
+heading_two: 'DAS CASE STUDY'
 media: 'DAS.png,DAS_video_back.jpg'
 ---
 
