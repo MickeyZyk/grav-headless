@@ -19,8 +19,8 @@ slider:
         title: 'INNOVATIONS AND IDEAS FOR REAL LIFE'
         subheading: 'Not the presentation decks'
         link: /bakery-about
-        image: desk.jpg
-media: 'image.jpg,bakers_01.jpg,crowders_01.jpg,desk.jpg,dogs.jpg,dude.jpg'
+        image: shutterstock_771033703_small.jpg
+media: 'crowders_01.jpg,bakers_01.jpg,dogs.jpg,desk.jpg,dude.jpg,image.jpg,shutterstock_771033703_small.jpg'
 title: Bakery
 visible: false
 ---
