@@ -7,7 +7,7 @@ slider:
         image: bakers_01.jpg
     -
         title: 'CREATE FUTURE WITH US'
-        subheading: 'Join thousands of other creative souls who are eager to hare ideas '
+        subheading: 'Join thousands of other creative souls who are eager to hear ideas'
         link: /bakers-about
         image: shutterstock_770336959_small.jpg
     -
