@@ -20,7 +20,7 @@ slider:
         subheading: 'Not the presentation decks'
         link: /bakery-about
         image: shutterstock_1159947316_small.jpg
-media: 'crowders_01.jpg,shutterstock_771033703_small.jpg,bakers_01.jpg,dogs.jpg,shutterstock_155344466_small.jpg,desk.jpg,image.jpg,shutterstock_1159947316_small.jpg'
+media: 'image.jpg,shutterstock_155344466_small.jpg,shutterstock_771033703_small.jpg,shutterstock_1159947316_small.jpg'
 title: Bakery
 visible: false
 ---
