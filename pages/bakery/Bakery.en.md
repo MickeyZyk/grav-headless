@@ -2,7 +2,7 @@
 slider:
     -
         title: 'THE FUTURE IS HERE'
-        subheading: 'Top creative and strategic minds joined forces with the largest crowd of consumers'
+        subheading: 'Top creative and strategic minds joined forces with the largest crowd of consumers.'
         link: /bakery-about
         image: image.jpg
     -
