@@ -12,13 +12,14 @@ slider:
         image: shutterstock_770336959_small.jpg
     -
         title: 'COME AND WORK WITH OUR TEAM'
-        subheading: 'of strategic and creative minds '
+        subheading: 'of strategic and creative minds'
         link: /bakers-about
         image: shutterstock_150332981_small.jpg
     -
         title: 'CREATE FUTURE WITH US'
         link: /bakers-about
-media: 'shutterstock_770336959_small.jpg,bakers_01.jpg,shutterstock_150332981_small.jpg'
+        image: shutterstock_320971742_Bakers_small.jpg
+media: 'shutterstock_770336959_small.jpg,shutterstock_150332981_small.jpg,bakers_01.jpg,shutterstock_320971742_Bakers_small.jpg'
 title: Bakers
 visible: false
 ---
