@@ -63,6 +63,11 @@ svg_icons:
         svg_text: 'If not this time, no  worries, there will be more projects'
 authors_heading: 'What authors say...'
 authors_image: hipster.jpg
+author_texts:
+    -
+        text: "”Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! ”\_"
+    -
+        text: "”Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! ”\_"
 media: 'bw_pelcova.jpg,hairguy.jpg,painter.jpg,pelcova.jpg,gold.svg,clock.svg,envelope.svg,register.svg,location.svg,smile.svg,hipster.jpg,kid.jpg'
 ---
 
