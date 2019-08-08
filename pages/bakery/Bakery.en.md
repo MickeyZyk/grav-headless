@@ -9,12 +9,12 @@ slider:
         title: 'TRUE INSIGHTS'
         subheading: 'We are eager to hear and listen to the crowd'
         link: /bakery-about
-        image: shutterstock_155344466_small.jpg
+        image: shutterstock_771033703_small.jpg
     -
         title: 'FRESH IDEAS'
         subheading: 'Original content by and for your future consumers'
         link: /bakery-about
-        image: shutterstock_771033703_small.jpg
+        image: shutterstock_155344466_small.jpg
     -
         title: 'INNOVATIONS AND IDEAS FOR REAL LIFE'
         subheading: 'Not the presentation decks'
