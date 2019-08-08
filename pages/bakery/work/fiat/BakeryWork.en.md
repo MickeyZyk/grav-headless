@@ -5,7 +5,7 @@ heading_tag: Ideation
 heading_one: 'How to launch a new crossover blending design & practicality to women in overcrowded market?'
 one_way: 'Use TV and mass marketing to get the message across.'
 new_way: 'How about giving your future customers a chance to come up with their own view of practicality?'
-big_image: fiat_video.jpg
+big_image: fiat.jpg
 video: 'https://youtu.be/nq2_TJRua0A'
 logo_light: light_logo_fiat.png
 category: AWARD
