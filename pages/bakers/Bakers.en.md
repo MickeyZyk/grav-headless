@@ -6,15 +6,18 @@ slider:
         link: /bakers-about
         image: bakers_01.jpg
     -
-        title: 'CREATE FUTURE WITH US'
-        subheading: 'Join thousands of other creative souls who are eager to hear ideas'
+        title: 'JOIN THOUSANDS OF OTHER CREATIVE SOULS'
+        subheading: 'who are eager to share ideas'
         link: /bakers-about
         image: shutterstock_770336959_small.jpg
     -
-        title: 'JOIN THOUSANDS OF OTHERS'
-        subheading: 'Come and work with our team of strategic and creative minds'
+        title: 'COME AND WORK WITH OUR TEAM'
+        subheading: 'of strategic and creative minds '
         link: /bakers-about
         image: shutterstock_150332981_small.jpg
+    -
+        title: 'CREATE FUTURE WITH US'
+        link: /bakers-about
 media: 'shutterstock_770336959_small.jpg,bakers_01.jpg,shutterstock_150332981_small.jpg'
 title: Bakers
 visible: false
