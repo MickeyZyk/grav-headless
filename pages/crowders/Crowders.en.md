@@ -1,16 +1,21 @@
 ---
 slider:
     -
-        title: 'WE SEEK AND DEVELOP CROSS-SOCIAL TOPICS'
-        subheading: 'Team of thousands individuals strong in opinion and power to change things'
+        title: 'WE CREATE DEMAND'
+        subheading: 'We seek and develop cross-social topics'
         link: /crowders-about
         image: crowders_01.jpg
     -
-        title: 'WE FORM SPECIFIC INTEREST GROUPS'
-        subheading: 'Team of thousands individuals strong in opinion and power to change things'
+        title: 'COMMUNITIES BUILDING'
+        subheading: 'We form specific interest groups'
         link: /crowders-about
         image: shutterstock_1043564689_small.jpg
-media: 'crowders_01.jpg,shutterstock_1043564689_small.jpg'
+    -
+        title: 'WE HELP TO RE-INVENT THE CATEGORIES'
+        subheading: 'Here we need a sub-headline'
+        link: /crowders-about
+        image: shutterstock_131312057_Crowders_small.jpg
+media: 'crowders_01.jpg,shutterstock_1043564689_small.jpg,shutterstock_131312057_Crowders_small.jpg'
 title: Crowders
 visible: false
 ---
