@@ -9,6 +9,6 @@ big_image: DAS_video_back.jpg
 video: 'https://youtu.be/y2Q2tjT8qh4'
 logo_light: DAS.png
 heading_two: 'DAS CASE STUDY'
-media: 'DAS.png,DAS_video_back.jpg'
+media: DAS.png
 ---
 
