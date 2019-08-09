@@ -45,22 +45,22 @@ link_two_text: ' JOIN US'
 svg_icons:
     -
         svg: register.svg
-        svg_text: 'REGISTER and you will be a part of our global creative family'
+        svg_text: '<p><strong>REGISTER</strong> and you will be a part of our global creative family</p>'
     -
         svg: location.svg
-        svg_text: 'Choose your Areas  of Interest'
+        svg_text: '<p>Choose your Areas of Interest</p>'
     -
         svg: envelope.svg
-        svg_text: 'Send your ideas'
+        svg_text: '<p>Send your ideas</p>'
     -
         svg: clock.svg
-        svg_text: 'Then you can wait and see if you are the selected baker'
+        svg_text: '<p>Then you can wait and see if you are the selected baker</p>'
     -
         svg: gold.svg
-        svg_text: 'If you are, enjoy your reward'
+        svg_text: '<p>If you are, enjoy your reward</p>'
     -
         svg: smile.svg
-        svg_text: 'If not this time, no  worries, there will be more projects'
+        svg_text: '<p>If not this time, no worries, there will be more projects</p>'
 authors_heading: 'What authors say...'
 authors_image: hipster.jpg
 author_texts:
