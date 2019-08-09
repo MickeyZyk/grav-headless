@@ -38,6 +38,7 @@ team:
         link_two: pelcova.alena@futurebakery.com
         image: bw_pelcova.jpg
 bakers_heading: Bakers
+image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
 link_two: /bakerscontact
