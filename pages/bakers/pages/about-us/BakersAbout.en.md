@@ -45,7 +45,7 @@ link_two_text: ' JOIN US'
 svg_icons:
     -
         svg: register.svg
-        svg_text: 'REGISTER and you will be a part of our global creative family'
+        svg_text: '**REGISTER** and you will be a part of our global creative family'
     -
         svg: location.svg
         svg_text: 'Choose your Areas  of Interest'
