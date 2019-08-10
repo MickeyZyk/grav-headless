@@ -6,6 +6,8 @@ paragraph_one: 'We have liaised top creative and strategic minds with creativity
 heading_two: 'Our creation process From people to people'
 show_me_text: 'Usual closed innovation process From office desks to people'
 show_me_link: /bakery-about
+show_me_two_text: /bakery-about
+show_me_two_link: 'From office desks to people - Usual closed innovation process '
 heading_three: 'What we bake?'
 svg_icons:
     -
