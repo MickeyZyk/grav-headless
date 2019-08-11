@@ -46,14 +46,19 @@ logos:
         logotype: logo_pscp.png
 team:
     -
-        member: 'Alena Pelcova'
-        member_text: "Imagine you have a family with thousands of relatives. This is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
-        link_two: alena.pelcova@futurebakery.com
+        member: 'Robert Peňažka'
+        member_text: "I have been in the world of communication and creativity for 25 years. I constantly start to be able to finish and I finish to be able to start.\r\nAfter 9 years I ended up as the leader of Leo Burnett Prague, I set up Kaspen agency to leave after 7 years and established Yinachi studio.\r\nI seek passionate Clients, I connect the world of commercialism / advertising and art.\r\nI stand behind “Kmeny” project, “Neboj” or “Velký bobek” books. I publish Magnus magazine.\r\nI am an uncle of Kašpárek v rohlíku and Kefír festival. I cofounded “Rodiče vítáni” (“Parents welcome”) and together with Petr Topinka we built Future Bakery family."
+        link_two: robert@futurebakery.com
         image: pelcova.jpg
     -
-        member: 'Pelcova Alena'
-        member_text: 'People with great energy and ideas. We know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life. Imagine you have a family with thousands of relatives. This is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd.'
-        link_two: pelcova.alena@futurebakery.com
+        member: 'Petr Topinka'
+        member_text: "For past 30 years I have worked with the owners and leaders of successful companies across the whole world. Even with politicians and country leaders.\r\nI help them with strategic marketing and communication.\r\nFor many years I was connected with BBDO Worldwide agency network. I worked in BBDO Toronto and lead Prague office which stood behind great creative and business projects in the Czech Republic and CEE region. I found and helped unlock hundreds of talents.\r\nAll this helped me see even more clearly that the crowd can do more that “the above”.\r\nThat’s why Robert Peňažka and I have built Future Bakery platform. For everybody to participate, for us to listen better and for things to work better."
+        link_two: petr@futurebakery.com
+        image: bw_pelcova.jpg
+    -
+        member: 'Alena Pelcová'
+        member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
+        link_two: alena@futurebakery.cz
         image: bw_pelcova.jpg
 media: 'network.svg,target.svg,bulb.svg,phones.svg,fiver.svg,rainbow.svg,bang.svg,hairguy.jpg,logo_pscp.png,about_fiat_logo.png,graph.svg,desk.jpg,gauge.svg,about_nike_logo.png,remax.png,pelcova.jpg,bw_pelcova.jpg'
 show_me_link: /bakery-about
