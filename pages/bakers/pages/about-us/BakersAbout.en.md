@@ -13,13 +13,13 @@ problem_heading_one: Problem
 problem_heading_two: 'Spousta lidy spousta napadu'
 problem_heading_three: Reseni
 problem_text: 'how can be a name for fisherman''s beer?'
-icon01_text: 'Marketa grafik miluje horska kola'
-icon02_text: 'Marketa grafik miluje horska kola'
-icon03_text: 'Honza marketer miluje reklamu'
-icon04_text: 'Marketa grafik miluje horska kola'
-icon05_text: 'Honza marketer miluje reklamu'
-icon06_text: 'Karel hasic'
-icon07_text: 'Marketa grafik miluje horska kola'
+icon01_text: 'Jana, bank manager, loves writing'
+icon02_text: 'Dana, student, likes to draw'
+icon03_text: 'Honza, yoga instructor, loves healthy lifestyle'
+icon04_text: 'Magda, professor, loves psychology'
+icon05_text: 'Dan, doctor, likes to go for a beer'
+icon06_text: 'Karel, business owner'
+icon07_text: 'Bozena, grandma, likes to cook'
 icons_link_one: /bakerscontact
 icons_link_one_text: 'JOIN US'
 icons_link_two: /bakerscontact
