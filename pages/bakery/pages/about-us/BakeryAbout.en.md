@@ -60,7 +60,7 @@ team:
         member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
         link_two: alena@futurebakery.cz
         image: bw_pelcova.jpg
-media: 'network.svg,target.svg,bulb.svg,phones.svg,fiver.svg,rainbow.svg,bang.svg,hairguy.jpg,logo_pscp.png,about_fiat_logo.png,graph.svg,desk.jpg,gauge.svg,about_nike_logo.png,remax.png,pelcova.jpg,bw_pelcova.jpg'
+media: 'network.svg,bw_pelcova.jpg,target.svg,bulb.svg,phones.svg,fiver.svg,rainbow.svg,bang.svg,hairguy.jpg,pelcova.jpg,logo_pscp.png,about_fiat_logo.png,graph.svg,desk.jpg,gauge.svg,about_nike_logo.png,remax.png,topinka_peter_8744-2_792x1057_bw.jpg,penazka_robert_8696-2_792x1057_bw.jpg,topinka_peter_8744-2_792x1057.jpg,penazka_robert_8696-2_792x1057.jpg'
 show_me_link: /bakery-about
 show_me_two_link: 'From office desks to people - Usual closed innovation process '
 ---
