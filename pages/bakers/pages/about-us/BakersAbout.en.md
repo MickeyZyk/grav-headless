@@ -10,8 +10,8 @@ paragraph_two: 'We believe that a great idea can pop up anywhere: in a bar, duri
 link_one: /bakerscontact
 link_one_text: 'JOIN US'
 problem_heading_one: Problem
-problem_heading_two: 'Spousta lidy spousta napadu'
-problem_heading_three: Reseni
+problem_heading_two: 'Lots of people, lots of ideas'
+problem_heading_three: Solution
 problem_text: 'how can be a name for fisherman''s beer?'
 icon01_text: 'Jana, bank manager, loves writing'
 icon02_text: 'Dana, student, likes to draw'
