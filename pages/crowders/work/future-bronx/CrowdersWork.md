@@ -6,7 +6,7 @@ paragraph: www.futurebronx.com
 big_image: bronx.jpg
 video: 'null'
 logo_light: dot.jpg
-heading_two: .
+heading_two: 'Helping Bronx to be a better place for living'
 media: 'dot.jpg,bronx.jpg'
 ---
 
