@@ -39,8 +39,6 @@ logos:
     -
         logotype: about_fiat_logo.png
     -
-        logotype: about_nike_logo.png
-    -
         logotype: remax.png
     -
         logotype: logo_pscp.png
