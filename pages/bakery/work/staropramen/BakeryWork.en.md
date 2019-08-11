@@ -8,9 +8,6 @@ new_way: 'Exploring the place of origin, its people and their specific way of li
 big_image: staropramen.jpg
 video: 'https://youtu.be/KCela48LYuo'
 logo_light: light_SP.png
-category: AWARD
-category_name: '???'
-heading_two: 'Staropramen CaseStudy'
 media: 'Logo_Pivovary Staropramen-a.png,staropramen.jpg,light_SP.png,sp.png'
 ---
 
