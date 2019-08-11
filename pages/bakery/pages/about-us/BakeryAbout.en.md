@@ -42,6 +42,8 @@ logos:
         logotype: remax.png
     -
         logotype: logo_pscp.png
+    -
+        logotype: logo_Zonky.png
 team:
     -
         member: 'Robert Peňažka'
