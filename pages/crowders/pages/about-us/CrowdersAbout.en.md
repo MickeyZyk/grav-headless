@@ -56,7 +56,7 @@ team:
         image: topinka_peter_8744-2_792x1057_bw.jpg
     -
         member: 'Alena Pelcova '
-        member_text: 'People with great energy and ideas. We know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life. Imagine you have a family with thousands of relatives. This is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd.'
+        member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
         link_two: pelcova.alena@futurebakery.com
         image: bw_pelcova.jpg
 media: 'network.svg,bw_pelcova.jpg,target.svg,crowders_clipboard.svg,bulb.svg,rainbow.svg,hairguy.jpg,painter.jpg,pelcova.jpg,nail_sharpener.jpg,crowders_tablet.svg,graph.svg,gauge.svg,crowders_cone.jpg,crowders_turntable.svg,crowders_arrowz.svg,cone.jpg,topinka_peter_8744-2_792x1057_bw.jpg,penazka_robert_8696-2_792x1057_bw.jpg,topinka_peter_8744-2_792x1057.jpg,penazka_robert_8696-2_792x1057.jpg'
