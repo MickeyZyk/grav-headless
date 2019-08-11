@@ -71,7 +71,7 @@ authors_heading: 'What authors say...'
 authors_image: hipster.jpg
 author_texts:
     -
-        name: 'Name 1'
+        name: 'Ondra Bolvári'
         text: "”Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it! ”\_"
     -
         text: "Díky Vám jsem našel i směr, když to řeknu nadneseně - smysl pracovního života.\_😁\_Protože jsem pořád nevěděl, co by mě bavilo a pak jste přišli Vy a naučili jste mě svobodně, a kolikrát bezhlavě, psát nesmysly, které i sem tam někoho zaujmou. Takže ač jsem dodělal IT školu, tak stejně jsem se vrhl do online marketingu, kde jsem se našel. Teď si plně spravuji firemní e-shop a řeším i marketingové věci kolem něj a to je přesně to, kam jsem došel jenom díky FutureBakery. Předtím by mě to nikdy nenapadlo, ani bych se o tohle odvětví nezajímal, protože bych ho prostě neznal. "
