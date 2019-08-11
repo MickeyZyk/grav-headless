@@ -33,15 +33,15 @@ team:
         link_two: robert@futurebakery.com
         image: penazka_robert_8696-2_792x1057_bw.jpg
     -
-        member: 'Pelcova Alena'
-        member_text: 'People with great energy and ideas. We know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life. Imagine you have a family with thousands of relatives. This is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd.'
-        link_two: pelcova.alena@futurebakery.com
-        image: bw_pelcova.jpg
-    -
         member: 'Petr Topinka'
         member_text: "For past 30 years I have worked with the owners and leaders of successful companies across the whole world. Even with politicians and country leaders.\r\nI help them with strategic marketing and communication.\r\nFor many years I was connected with BBDO Worldwide agency network. I worked in BBDO Toronto and lead Prague office which stood behind great creative and business projects in the Czech Republic and CEE region. I found and helped unlock hundreds of talents.\r\nAll this helped me see even more clearly that the crowd can do more that “the above”.\r\nThat’s why Robert Peňažka and I have built Future Bakery platform. For everybody to participate, for us to listen better and for things to work better."
         link_two: petr@futurebakery.cz
         image: topinka_peter_8744-2_792x1057_bw.jpg
+    -
+        member: 'Pelcova Alena'
+        member_text: 'People with great energy and ideas. We know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life. Imagine you have a family with thousands of relatives. This is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd.'
+        link_two: pelcova.alena@futurebakery.com
+        image: bw_pelcova.jpg
 bakers_heading: Bakers
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
