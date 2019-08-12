@@ -71,23 +71,23 @@ authors_heading: 'What authors say...'
 authors_image: hipster.jpg
 author_texts:
     -
-        name: 'Ondra Bolvári'
-        text: 'Díky Vám jsem našel i směr, když to řeknu nadneseně - smysl pracovního života. 😁 Protože jsem pořád nevěděl, co by mě bavilo a pak jste přišli Vy a naučili jste mě svobodně, a kolikrát bezhlavě, psát nesmysly, které i sem tam někoho zaujmou. Takže ač jsem dodělal IT školu, tak stejně jsem se vrhl do online marketingu, kde jsem se našel. Teď si plně spravuji firemní e-shop a řeším i marketingové věci kolem něj a to je přesně to, kam jsem došel jenom díky FutureBakery. Předtím by mě to nikdy nenapadlo, ani bych se o tohle odvětví nezajímal, protože bych ho prostě neznal. '
-    -
-        name: 'Martin Melichna'
-        text: 'Získal jsem díky této společnosti "neomezených nápadů" nový impuls, radost, těšení se na novou seberealizaci, či úsměv ze sklízení těch nejsladších a nejšťavnatějších plodů, když bylo mé snažení a mé nápady vybrány jako vítězné. Future Bakery mě doslova katapultovalo do mnohem soutěživějších výšin, levelů a sfér - než jsem před pár lety byl.'
-    -
-        name: 'Nela Vaculíčková'
-        text: 'Co pro mě znamená platforma Future Bakery? Primárně srdeční záležitost. Je to vášeň. Je to radost. Je to chvilka, díky které je tu možnost ovlivnit svět kolem sebe. Je to moje Future Bakery.'
-    -
-        name: lenka.sychra@seznam.cz
-        text: '“Ta výzva, ten drive, ta možnost něco dokázat a ověřit si, že na to mám (nebo nemám). Možnost roztočit myšlení na plné obrátky a navíc mít šanci získat odměnu. Díky Vám prožívám zajímavé myšlenkové rozpoložení a mnoho emocí: zvědavost, někdy i nechuť, většinou však nadšení, když si čtu zadání nového projektu. Pak následuje intenzivní přemýšlení, zvídavost, kreativita, kontrola nápadu a radost, že jsem ho zvládla dokončit. A nejlepší je, když nakonec i vyhraju, to je pak ohromná radost a zaplaví mě pocity štěstí.'
+        name: 'Lenka Sychrá'
+        text: 'The challenge, the drive, the possibility to achieve something and check I can do it (or not). The possibility to spin my brain into full speed (?) and, moreover, the chance to get a reward. Thanks to you I can experience an interesting state of mind and a lot of emotions: curiosity, sometimes reluctance, but most of the time enthusiasm when I read a new project brief. Then comes an intensive thinking, creativity, idea check and the joy that I managed to accomplish the work. And the best about it is when I finally win, then I am overwhelmed by extreme happiness.'
     -
         name: 'Kamila Suchánková'
-        text: '“Když jsem Vás úplnou náhodou objevila, poklesla mi čelist a to v tom nejlepším slova smyslu. Wooow. Konečně je tu něco nového a nesmírně tvůrčího pro nás všechny. Lhostejno na tom, jestli jsi student, designer, prodavačka či právník. Každý jeden z nás v této zemi se může zapojit do tvorby,  Za mě prostě super. Ve volném čase si mohu kdykoliv odskočit sem na stránky Future Bakery, popustit uzdu fantazii a příjemně se zrelaxovat od každodenní rutiny. Přičemž jde i o zdravou soutěživost a napětí, zda-li právě ten můj nápad je ten pravý. Zkrátka, cítím se být součástí skvělého týmu'
+        text: 'When I discovered you, I was really overwhelmed. Wooow. Finally there is something new and really creative for all of us. It doesn’t matter if you are a student, designer, a shop assistant or a lawyer. Each one of us can in this country can co-create. For me this is great. In my leisure time I can go to Future Bakery pages, release my fantasy and relax from everyday routine. At the same time, there is a healthy competition and excitement whether my idea is the right one. I simply feel to be a part of a great team.'
     -
         name: 'Lucie Herz'
-        text: '“Futurebakery pro mě znamená především novou zkušenost.  Ukázalo mi, že každý může uspět, když se nevzdává při neúspěchu. Jelikož portfolio zadavatelů je opravdu široké. Vymýšlení projektu je pro mě zábava a ještě větší výzva, jelikož vůbec nejsem z oboru.”'
+        text: 'Future Bakery primarily means a new experience for me. It proved to me that everybody can succeed (if they are not discouraged by not winning immediately). The portfolio of Clients is really wide. Coming up with ideas is both fun and challenge as I do not work in this branch.'
+    -
+        name: 'Matej Kiss'
+        text: 'Future Bakery provides a possibility to create. There is a lot of techniques and mobile applications for improving your creativity, but your page offers real projects from real life and provides real rewards. And it’s not only about coming up with advertising campaigns. Projects like how to improve interior of a new model of Fiat to reflect a real need for women, or how to make use of velcro that can hold several kilograms or how to use a chip for contactless payments - it is also a technical issue.'
+    -
+        name: 'Adam Škápa'
+        text: 'Future Bakery as a strong, original story. Future Bakery is a mediator, visionary, monk, guru, teacher, master, lover, sex, wild passion as well as a game with clear rules… crime and punishment, feast and work, entertainment, euphoria as well as hard work or tears, winning and losing, lover and friend…. Future Bakery is a laboratory of positive emotions, of inner challenge, it’s an alchymist. Future Bakery is primarily a strong original positive story! Future Bakery clearly and sensitively sets cooperation rules for everybody and clarifies mutual orientation. There is no discrimination or limits to your fantasy, motivation is the main aspect which Future Bakery uses phenomenally. And there is a feedback and final evaluation.'
+    -
+        name: 'Michal Černý'
+        text: 'It is a great means of self realization and use of innate talent which companies a person from basic school when his / her story got into a school magazine. The first public copy is simply experience that you can do with or you go further and as you grow you find out what power the word has and how you can shape it. This platform offers me such experience and moreover, with such well-known brands. Every author has a message, subconscious information or experience that he or she want to send further to the world. And each of these opportunities should not be just left. Above al this there is a simple joy from creating and sometimes a great message that your idea was liked and has been processed among the winning ones.'
 reward: '287 000 USD'
 ideas: '42 587'
 bakers: '11 893'
