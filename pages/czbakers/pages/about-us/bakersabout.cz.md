@@ -13,18 +13,18 @@ problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
 problem_heading_three: Solution
 problem_text: 'how can be a name for fisherman''s beer?'
-icon01_text: 'Jana, bank manager, loves writing'
-icon02_text: 'Dana, student, likes to draw'
-icon03_text: 'Honza, yoga instructor, loves healthy lifestyle'
-icon04_text: 'Magda, professor, loves psychology'
-icon05_text: 'Dan, doctor, likes to go for a beer'
-icon06_text: 'Karel, business owner'
-icon07_text: 'Bozena, grandma, likes to cook'
-icons_link_one: /bakerscontact
-icons_link_one_text: 'JOIN US'
-icons_link_two: /bakers-for-clients
-icons_link_two_text: 'BRIEF US'
-team_section_heading: 'Who is behind the scenes of Future Bakers?'
+icon01_text: 'ana, manažerka v bance, miluje psaní'
+icon02_text: 'Dana, studentka, ráda kreslí'
+icon03_text: 'Dan, zdravotník, rád zajde na pivo'
+icon04_text: 'Božena, babička, ráda vaří'
+icon05_text: 'Magda, profesorka, miluje psychologii'
+icon06_text: 'Linda. Má svou firmu'
+icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl'
+icons_link_one: /czbakerscontact
+icons_link_one_text: 'PŘIPOJ SE K NÁM'
+icons_link_two: /czbakers-for-clients
+icons_link_two_text: 'POŠLETE ZADÁNÍ'
+team_section_heading: 'Kdo za námi stojí?'
 team_heading: 'Meet the team'
 team:
     -
@@ -46,8 +46,8 @@ bakers_heading: Bakers
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
-link_two: /bakerscontact
-link_two_text: ' JOIN US'
+link_two: /czbakerscontact
+link_two_text: 'PŘIPOJ SE K NÁM'
 svg_icons:
     -
         svg: register.svg
@@ -71,26 +71,35 @@ authors_heading: 'What authors say...'
 authors_image: hipster.jpg
 author_texts:
     -
+        name: 'Ondra Bolvári'
+        text: "Díky Vám jsem našel i směr, když to řeknu nadneseně - smysl pracovního života.\_😁\_Protože jsem pořád nevěděl, co by mě bavilo a pak jste přišli Vy a naučili jste mě svobodně, a kolikrát bezhlavě, psát nesmysly, které i sem tam někoho zaujmou. Takže ač jsem dodělal IT školu, tak stejně jsem se vrhl do online marketingu, kde jsem se našel. Teď si plně spravuji firemní e-shop a řeším i marketingové věci kolem něj a to je přesně to, kam jsem došel jenom díky FutureBakery. Předtím by mě to nikdy nenapadlo, ani bych se o tohle odvětví nezajímal, protože bych ho prostě neznal."
+    -
+        name: 'Martin Melichna'
+        text: 'Získal jsem díky této společnosti "neomezených nápadů" nový impuls, radost, těšení se na novou seberealizaci, či úsměv ze sklízení těch nejsladších a nejšťavnatějších plodů, když bylo mé snažení a mé nápady vybrány jako vítězné. Future Bakery mě doslova katapultovalo do mnohem soutěživějších výšin, levelů a sfér - než jsem před pár lety byl.'
+    -
+        name: 'Nela Vaculíčková'
+        text: 'Co pro mě znamená platforma Future Bakery? Primárně srdeční záležitost. Je to vášeň. Je to radost. Je to chvilka, díky které je tu možnost ovlivnit svět kolem sebe.  Je to moje Future Bakery.'
+    -
         name: 'Lenka Sychrá'
-        text: 'The challenge, the drive, the possibility to achieve something and check I can do it (or not). The possibility to spin my brain into full speed (?) and, moreover, the chance to get a reward. Thanks to you I can experience an interesting state of mind and a lot of emotions: curiosity, sometimes reluctance, but most of the time enthusiasm when I read a new project brief. Then comes an intensive thinking, creativity, idea check and the joy that I managed to accomplish the work. And the best about it is when I finally win, then I am overwhelmed by extreme happiness.'
+        text: 'Ta výzva, ten drive, ta možnost něco dokázat a ověřit si, že na to mám (nebo nemám). Možnost roztočit myšlení na plné obrátky a navíc mít šanci získat odměnu. Díky Vám prožívám zajímavé myšlenkové rozpoložení a mnoho emocí: zvědavost, někdy i nechuť, většinou však nadšení, když si čtu zadání nového projektu. Pak následuje intenzivní přemýšlení, zvídavost, kreativita, kontrola nápadu a radost, že jsem ho zvládla dokončit. A nejlepší je, když nakonec i vyhraju, to je pak ohromná radost a zaplaví mě pocity štěstí.'
     -
         name: 'Kamila Suchánková'
-        text: 'When I discovered you, I was really overwhelmed. Wooow. Finally there is something new and really creative for all of us. It doesn’t matter if you are a student, designer, a shop assistant or a lawyer. Each one of us can in this country can co-create. For me this is great. In my leisure time I can go to Future Bakery pages, release my fantasy and relax from everyday routine. At the same time, there is a healthy competition and excitement whether my idea is the right one. I simply feel to be a part of a great team.'
+        text: 'Když jsem Vás úplnou náhodou objevila, poklesla mi čelist a to v tom nejlepším slova smyslu. Wooow. Konečně je tu něco nového a nesmírně tvůrčího pro nás všechny. Lhostejno na tom, jestli jsi student, designer, prodavačka či právník. Každý jeden z nás v této zemi se může zapojit do tvorby,  Za mě prostě super. Ve volném čase si mohu kdykoliv odskočit sem na stránky Future Bakery, popustit uzdu fantazii a příjemně se zrelaxovat od každodenní rutiny. Přičemž jde i o zdravou soutěživost a napětí, zda-li právě ten můj nápad je ten pravý. Zkrátka, cítím se být součástí skvělého týmu.'
     -
         name: 'Lucie Herz'
-        text: 'Future Bakery primarily means a new experience for me. It proved to me that everybody can succeed (if they are not discouraged by not winning immediately). The portfolio of Clients is really wide. Coming up with ideas is both fun and challenge as I do not work in this branch.'
+        text: 'Futurebakery pro mě znamená především novou zkušenost.  Ukázalo mi, že každý může uspět, když se nevzdává při neúspěchu. Jelikož portfolio zadavatelů je opravdu široké. Vymýšlení projektu je pro mě zábava a ještě větší výzva, jelikož vůbec nejsem z oboru.'
     -
         name: 'Matej Kiss'
-        text: 'Future Bakery provides a possibility to create. There is a lot of techniques and mobile applications for improving your creativity, but your page offers real projects from real life and provides real rewards. And it’s not only about coming up with advertising campaigns. Projects like how to improve interior of a new model of Fiat to reflect a real need for women, or how to make use of velcro that can hold several kilograms or how to use a chip for contactless payments - it is also a technical issue.'
+        text: 'Pre mňa Future Bakery poskytuje možnosť na kreatívnu tvorbu. Je veľa techník a mobilných aplikácií na zlepšenie kreativity, ale vaša stránka ponúka reálne projekty z reálneho života a dáva reálne odmeny. A nie je to len o vymýšľaní reklamných kampaní. Ale projekty typu ako zlepšiť Interiér Fiatu, aby odrážal potrebu žien, čo urobiť so suchým zipsom, čo udrží X kilogramov alebo ako využiť čip na bez-kontaktné platby je aj technická záležitosť'
     -
         name: 'Adam Škápa'
-        text: 'Future Bakery as a strong, original story. Future Bakery is a mediator, visionary, monk, guru, teacher, master, lover, sex, wild passion as well as a game with clear rules… crime and punishment, feast and work, entertainment, euphoria as well as hard work or tears, winning and losing, lover and friend…. Future Bakery is a laboratory of positive emotions, of inner challenge, it’s an alchymist. Future Bakery is primarily a strong original positive story! Future Bakery clearly and sensitively sets cooperation rules for everybody and clarifies mutual orientation. There is no discrimination or limits to your fantasy, motivation is the main aspect which Future Bakery uses phenomenally. And there is a feedback and final evaluation.'
+        text: "FB jako silný originální příběh FB je mediátor, vizionář, mnich, guru, učitel, mistr, milenka, sex, divoká nespoutaná vášeň i hra s\_jasně danými pravidly, zločin i trest, svátek i práce, \_zábava, euforie i dřina a pláč (někdy), vítězství i prohra, milenka i přítel, … FB je laboratoř pozitivních emocí, laboratoř vlastní výzvy, ALCHYMISTA. FB\_ je především silný originální pozitivní příběh!!! FB velmi přesně a citlivě nastavuje podmínky spolupráce pro všechny strany – zpřesňuje oboustrannou orientaci!!! Není zde žádná diskriminace a fantazii se meze nekladou, motivace je hlavní aspekt, který se na FB GENIÁLNĚ používá! Je tu i zpětná vazba a finální hodnocení."
     -
         name: 'Michal Černý'
-        text: 'It is a great means of self realization and use of innate talent which companies a person from basic school when his / her story got into a school magazine. The first public copy is simply experience that you can do with or you go further and as you grow you find out what power the word has and how you can shape it. This platform offers me such experience and moreover, with such well-known brands. Every author has a message, subconscious information or experience that he or she want to send further to the world. And each of these opportunities should not be just left. Above al this there is a simple joy from creating and sometimes a great message that your idea was liked and has been processed among the winning ones.'
-reward: '287 000 USD'
-ideas: '42 587'
-bakers: '11 893'
+        text: 'Je to skvělá možnost seberealizace a uplatnění jakéhosi vrozeného talentu, který člověka provází už od základní školy, kdy se jeho příběh dostal do školního časopisu. První zveřejněný text je prostě zkušenost, která vám buď stačí a jdete dál, anebo vás fascinuje a jak rostete, zjišťujete, jakou má slovo moc a jak je tvárné. Tato platforma mi umožňuje takovou zkušenost zažít navíc rovnou i s takovými značkami, které prostupují celou společností, k čemuž se pojí jeden zajímavý fakt. Každý autor má nějakou message, podvědomou informaci, zkušenost, kterou různými formami chce poslat dál do světa. A každá taková příležitost, kdy tohle svoje poselství můžete propašovat do světa, který ovlivňuje lidské vědomí, by se neměla nechat odejít jen tak. Ale nad tím vším je prostě a jednoduše radost z tvoření a občas i skvělá zpráva, že právě váš nápad se líbil, zaujal a posunul prvotní myšlenku zásadním způsobem k cíli.'
+reward: '2.724.000,-CZK'
+ideas: '49 000'
+bakers: '25452'
 media: 'clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,location.svg,hairguy.jpg,painter.jpg,pelcova.jpg,register.svg,smile.svg,kid.jpg,penazka_robert_8696-2_792x1057.jpg,topinka_peter_8744-2_792x1057.jpg,penazka_robert_8696-2_792x1057_bw.jpg,topinka_peter_8744-2_792x1057_bw.jpg'
 ---
 
