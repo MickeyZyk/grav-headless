@@ -20,7 +20,12 @@ icon04_text: 'Marketa grafik miluje horska kola'
 icon05_text: 'Honza marketer miluje reklamu'
 icon06_text: 'Karel hasic'
 icon07_text: 'Marketa grafik miluje horska kola'
-team_heading: 'Who is behind the scenes of Future Bakers?'
+team_heading: 'Kdo za námi stojí?'
+team:
+    -
+        member: 'Robert Peňažka'
+        member_text: "Pětadvacet jsem ve světě komunikace a kreativity. Pořád začínám, abych mohl končit a končím, abych mohl pořád začínat.\r\nPo 9 letech jsem skončil jako šéf Leo Burnett Praha, založil agenturu Kaspen, abych po 7 letech zase odešel a\_založil studio Yinachi. Hledám vášnivé klienty, propojuji světy komerce a\_umění. Stojím za projektem Kmeny, za knihami Neboj a Velký Bobek. Vydávám časopis Magnus. Jsem strejdou Kašpárka v\_rohlíku a\_festivalu Kefír. Jsem spoluzakladatelem \"Rodiče vítáni\" a\_s\_Petrem Topinkou jsme vybudovali rodinu Future Bakery."
+        link_two: robert@futurebakery.com
 bakers_heading: 'Who is behind the scenes of Future Bakers?'
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
@@ -30,5 +35,6 @@ authors_heading: 'CITACE AUTORŮ'
 reward: '2.724.000,-CZK'
 ideas: '49 000'
 bakers: '25 452'
+media: 'hairguy.jpg,painter.jpg,topinka_peter_8744-2_792x1057_bw.jpg,penazka_robert_8696-2_792x1057_bw.jpg,topinka_peter_8744-2_792x1057.jpg,penazka_robert_8696-2_792x1057.jpg'
 ---
 
