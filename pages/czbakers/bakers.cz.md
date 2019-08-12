@@ -1,22 +1,22 @@
 ---
 slider:
     -
-        title: 'UNLEASH YOUR CREATIVITY AND IDEAS'
-        subheading: 'The largest creative and innovation platform in the Czech Republic'
+        title: 'DEJTE VOLNOST NÁPADŮM A KREATIVITĚ V SOBĚ'
+        subheading: 'NEJVĚTŠÍ KREATIVNÍ A INOVAČNÍ PLATFORMA U NÁS'
         link: /bakers-about
         image: bakers_01.jpg
     -
-        title: 'JOIN THOUSANDS OF OTHER CREATIVE SOULS'
-        subheading: 'who are eager to share ideas'
+        title: 'PŘIDEJTE SE K DALŠÍM TISÍCŮM NADŠENCŮ'
+        subheading: 'KTEŘÍ CHTĚJÍ TVOŘIT'
         link: /bakers-about
         image: shutterstock_770336959_small.jpg
     -
-        title: 'COME AND WORK WITH OUR TEAM'
-        subheading: 'of strategic and creative minds'
+        title: 'PRACUJTE S NAŠÍM TÝMEM '
+        subheading: 'STRATÉGŮ A KREATIVCŮ'
         link: /bakers-about
         image: shutterstock_150332981_small.jpg
     -
-        title: 'CREATE FUTURE WITH US'
+        title: 'TVOŘTE S NÁMI BUDOUCNOST'
         link: /bakers-about
         image: shutterstock_320971742_Bakers_small.jpg
 media: 'shutterstock_770336959_small.jpg,shutterstock_150332981_small.jpg,bakers_01.jpg,shutterstock_320971742_Bakers_small.jpg'
