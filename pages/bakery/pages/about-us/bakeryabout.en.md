@@ -38,13 +38,59 @@ svg_icons:
         svg_text: 'ANALYTICS &  ON-LINE COMMUNITY'
 logos:
     -
-        logotype: about_fiat_logo.png
+        logotype: bos.png
     -
-        logotype: remax.png
+        logotype: bublology.png
+    -
+        logotype: captain-morgan.png
+    -
+        logotype: cebia.png
+    -
+        logotype: clavin.png
+    -
+        logotype: coyote.png
+    -
+        logotype: creative-dock.png
+    -
+        logotype: czechinn.png
+    -
+        logotype: das.png
+    -
+        logotype: dongoiovan.png
+    -
+        logotype: dukla.png
+    -
+        logotype: emco.png
+    -
+        logotype: fiat.png
+    -
+        logotype: grants.png
+    -
+        logotype: hello.png
+    -
+        logotype: hledamerodice.png
+    -
+        logotype: 'j&t-banka.png'
+    -
+        logotype: jihoceska-univerzita.png
+    -
+        logotype: jsmefer.png
+    -
+        logotype: k.png
+    -
+        logotype: keiki.png
+    -
+        logotype: klara.png
+    -
+        logotype: kofola.png
+    -
+        logotype: kooperativa.png
     -
         logotype: logo_pscp.png
     -
-        logotype: logo_Zonky.png
+        logotype: mallcz.png
+    -
+        logotype: mccann.png
 team:
     -
         member: 'Robert Peňažka'
@@ -61,7 +107,7 @@ team:
         member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
         link_two: alena@futurebakery.cz
         image: bw_pelcova.jpg
-media: 'network.svg,penazka_robert_8696-2_792x1057.jpg,bublology.png,bw_pelcova.jpg,clavin.png,target.svg,bulb.svg,phones.svg,fiver.svg,rainbow.svg,bang.svg,bos.png,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,pelcova.jpg,cebia.png,logo_pscp.png,graph.svg,desk.jpg,topinka_peter_8744-2_792x1057.jpg,gauge.svg,captain-morgan.png,topinka_peter_8744-2_792x1057_bw.jpg,logo_Zonky.png,bos.png,bublology.png,captain-morgan.png,cebia.png,clavin.png,coyote.png,creative-dock.png,czechinn.png,das.png,dongoiovan.png,dukla.png,emco.png,fiat.png,grants.png,hello.png,hledamerodice.png,j&t-banka.png,jihoceska-univerzita.png,jsmefer.png,k.png,keiki.png,klara.png,kofola.png,kooperativa.png,mallcz.png,mccann.png,mctree.png,metaxa.png,metlife.png,milka.png,muller.png,ntm.png,ostravar.png,pragtique.png,prvniklubova.png,pscp.png,rafun.png,rohlikcz.png,ruzovyslon.png,suchej-unor.png,unyp.png,zonky.png,zoot.png'
+media: 'network.svg,penazka_robert_8696-2_792x1057.jpg,bublology.png,bw_pelcova.jpg,clavin.png,target.svg,czechinn.png,bulb.svg,phones.svg,fiver.svg,creative-dock.png,rainbow.svg,bang.svg,bos.png,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,pelcova.jpg,cebia.png,coyote.png,logo_pscp.png,graph.svg,desk.jpg,topinka_peter_8744-2_792x1057.jpg,gauge.svg,captain-morgan.png,topinka_peter_8744-2_792x1057_bw.jpg,bos.png,bublology.png,captain-morgan.png,cebia.png,clavin.png,coyote.png,creative-dock.png,czechinn.png,das.png,dongoiovan.png,dukla.png,emco.png,fiat.png,grants.png,hello.png,hledamerodice.png,j&t-banka.png,jihoceska-univerzita.png,jsmefer.png,k.png,keiki.png,klara.png,kofola.png,kooperativa.png,mallcz.png,mccann.png,mctree.png,metaxa.png,metlife.png,milka.png,muller.png,ntm.png,ostravar.png,pragtique.png,prvniklubova.png,pscp.png,rafun.png,rohlikcz.png,ruzovyslon.png,suchej-unor.png,unyp.png,zonky.png,zoot.png'
 media_order: ''
 body_classes: ''
 order_by: ''
