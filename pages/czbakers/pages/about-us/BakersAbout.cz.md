@@ -20,7 +20,8 @@ icon04_text: 'Marketa grafik miluje horska kola'
 icon05_text: 'Honza marketer miluje reklamu'
 icon06_text: 'Karel hasic'
 icon07_text: 'Marketa grafik miluje horska kola'
-team_heading: 'Kdo za námi stojí?'
+team_section_heading: 'Kdo za námi stojí?'
+team_heading: 'Seznamte se s týmem'
 team:
     -
         member: 'Robert Peňažka'
@@ -32,7 +33,7 @@ team:
         member_text: "Posledních třicel let jsem pracoval s majiteli a šéfy úspěšných firem po celém světě. Dokonce s politiky a šéfy států.\r\nPomáhám jim se strategickým marketingem a komunikací.\r\nDlouhá léta jsem byl spojen s agenturní sítí BBDO Worldwide. Pracoval  jsem v BBDO Toronto a vedl jsem pražskou pobočku, která stálla za výzmnamnými projekty kreativně i byznysově u nás i v regionu CEE. Našel jsem a pomohl rozvinout stovky talentů.\r\nTo všechno mi pohohlo ještě líp vidět, že dav dokáže víc než ti “nahoře”. Proto jsme s Robertem Peňažkou postavili platformu Future Bakery. Aby se každý mohl podílet, abychom líp poslouchali a aby věci líp fungovaly."
         link_two: petr@futurebakery.cz
         image: topinka_peter_8744-2_792x1057_bw.jpg
-bakers_heading: 'Who is behind the scenes of Future Bakers?'
+bakers_heading: 'Kdo za námi stojí?'
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
 link_two: /contact
