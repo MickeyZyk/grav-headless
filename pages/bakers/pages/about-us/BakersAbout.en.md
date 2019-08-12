@@ -22,7 +22,7 @@ icon06_text: 'Karel, business owner'
 icon07_text: 'Bozena, grandma, likes to cook'
 icons_link_one: /bakerscontact
 icons_link_one_text: 'JOIN US'
-icons_link_two: /bakerscontact
+icons_link_two: /bakers-for-clients
 icons_link_two_text: 'BRIEF US'
 team_section_heading: 'Who is behind the scenes of Future Bakers?'
 team_heading: 'Meet the team'
