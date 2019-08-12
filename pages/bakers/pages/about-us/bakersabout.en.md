@@ -79,6 +79,15 @@ author_texts:
     -
         name: 'Nela Vaculíčková'
         text: 'Co pro mě znamená platforma Future Bakery? Primárně srdeční záležitost. Je to vášeň. Je to radost. Je to chvilka, díky které je tu možnost ovlivnit svět kolem sebe. Je to moje Future Bakery.'
+    -
+        name: lenka.sychra@seznam.cz
+        text: '“Ta výzva, ten drive, ta možnost něco dokázat a ověřit si, že na to mám (nebo nemám). Možnost roztočit myšlení na plné obrátky a navíc mít šanci získat odměnu. Díky Vám prožívám zajímavé myšlenkové rozpoložení a mnoho emocí: zvědavost, někdy i nechuť, většinou však nadšení, když si čtu zadání nového projektu. Pak následuje intenzivní přemýšlení, zvídavost, kreativita, kontrola nápadu a radost, že jsem ho zvládla dokončit. A nejlepší je, když nakonec i vyhraju, to je pak ohromná radost a zaplaví mě pocity štěstí.'
+    -
+        name: 'Kamila Suchánková'
+        text: '“Když jsem Vás úplnou náhodou objevila, poklesla mi čelist a to v tom nejlepším slova smyslu. Wooow. Konečně je tu něco nového a nesmírně tvůrčího pro nás všechny. Lhostejno na tom, jestli jsi student, designer, prodavačka či právník. Každý jeden z nás v této zemi se může zapojit do tvorby,  Za mě prostě super. Ve volném čase si mohu kdykoliv odskočit sem na stránky Future Bakery, popustit uzdu fantazii a příjemně se zrelaxovat od každodenní rutiny. Přičemž jde i o zdravou soutěživost a napětí, zda-li právě ten můj nápad je ten pravý. Zkrátka, cítím se být součástí skvělého týmu'
+    -
+        name: 'Lucie Herz'
+        text: '“Futurebakery pro mě znamená především novou zkušenost.  Ukázalo mi, že každý může uspět, když se nevzdává při neúspěchu. Jelikož portfolio zadavatelů je opravdu široké. Vymýšlení projektu je pro mě zábava a ještě větší výzva, jelikož vůbec nejsem z oboru.”'
 reward: '287 000 USD'
 ideas: '42 587'
 bakers: '11 893'
