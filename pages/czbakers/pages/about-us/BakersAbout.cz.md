@@ -1,17 +1,17 @@
 ---
 title: 'About Us'
-heading_one: 'Who we are'
+heading_one: 'Kdo jsme'
 subheading_one: 'A space for creative people with amazing ideas.'
 image_one: painter.jpg
-paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where the idea creators – who we call BAKERS get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We want to give everybody a chance to contribute. We believe the more idea makers we have, the more we can all move forward.'
-subheading_two: 'We are a group of enthusiasts and passionate thinkers'
+paragraph_one: "Jsme prostor, který dává možnost probudit kreativitu a nápady v každém z nás.\r\nMísto, kde se potkávají ti, co nápady hledají, s těmi, co je mají. Ti, co je hledají, dostanou na výběr z mnoha skvělých nápadů. Ti, co je mají, dostanou odměnu, když je jejich nápad vybrán."
+subheading_two: 'Jsme skupina neúnavných nadšenců.'
 image_two: hairguy.jpg
-paragraph_two: 'We believe that a great idea can pop up anywhere: in a bar, during a wonderfully peaceful weekend, while running, before going to bed, while chatting with your loved one, from a student, retiree or stay-at-home mom or dad.'
+paragraph_two: "Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv.\r\nZ knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ..."
 link_one: /contact
-link_one_text: 'JOIN US'
+link_one_text: 'přidejte se k nám'
 problem_heading_one: Problem
 problem_heading_two: 'Spousta lidy spousta napadu'
-problem_heading_three: Reseni
+problem_heading_three: Řešení
 problem_text: 'how can be a name for fisherman''s beer?'
 icon01_text: 'Marketa grafik miluje horska kola'
 icon02_text: 'Marketa grafik miluje horska kola'
@@ -25,6 +25,10 @@ bakers_heading: 'Who is behind the scenes of Future Bakers?'
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
 link_two: /contact
-link_two_text: ' JOIN US'
+link_two_text: 'Přidejte se k nám'
+authors_heading: 'CITACE AUTORŮ'
+reward: '2.724.000,-CZK'
+ideas: '49 000'
+bakers: '25 452'
 ---
 
