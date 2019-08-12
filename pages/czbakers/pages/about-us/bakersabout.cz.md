@@ -51,19 +51,19 @@ link_two_text: 'PŘIPOJ SE K NÁM'
 svg_icons:
     -
         svg: register.svg
-        svg_text: '<p><strong>REGISTER</strong> and you will be a part of our global creative family</p>'
+        svg_text: '<p><strong>Zaregistrujte se</strong> a staňte se souč&aacute;st&iacute; největ&scaron;&iacute;ho kreativn&iacute;ho oddělen&iacute; v Česk&eacute; republice</p>'
     -
         svg: location.svg
-        svg_text: '<p>Choose your Areas of Interest</p>'
+        svg_text: '<p>Vyberte si ty nejzaj&iacute;mavěj&scaron;&iacute; zad&aacute;n&iacute; a probl&eacute;my</p>'
     -
         svg: envelope.svg
-        svg_text: '<p>Send your ideas</p>'
+        svg_text: '<p>Po&scaron;lete sv&eacute; n&aacute;pady</p>'
     -
         svg: clock.svg
-        svg_text: '<p>Then you can wait and see if you are the selected baker</p>'
+        svg_text: '<p>Počkejte si na v&yacute;sledn&yacute; v&yacute;běr n&aacute;padů od klienta</p>'
     -
         svg: gold.svg
-        svg_text: '<p>If you are, enjoy your reward</p>'
+        svg_text: '<p>Už&iacute;vejte si odměnu</p>'
     -
         svg: smile.svg
         svg_text: '<p>If not this time, no worries, there will be more projects</p>'
