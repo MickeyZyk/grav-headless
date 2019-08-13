@@ -3,7 +3,7 @@ slider:
     -
         title: 'DEJTE VOLNOST NÁPADŮM A KREATIVITĚ V SOBĚ'
         subheading: 'NEJVĚTŠÍ KREATIVNÍ A INOVAČNÍ PLATFORMA U NÁS'
-        link: /bakers-about
+        link: /czbakers-about
         image: bakers_01.jpg
     -
         title: 'PŘIDEJTE SE K DALŠÍM TISÍCŮM NADŠENCŮ'
