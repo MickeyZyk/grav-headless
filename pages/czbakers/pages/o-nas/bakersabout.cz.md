@@ -25,7 +25,7 @@ icons_link_one_text: 'PŘIPOJ SE K NÁM'
 icons_link_two: /czbakers-for-clients
 icons_link_two_text: 'POŠLETE ZADÁNÍ'
 team_section_heading: 'Kdo za námi stojí?'
-team_heading: 'Meet the team'
+team_heading: 'Seznamte se s týmem'
 team:
     -
         member: 'Robert Peňažka'
