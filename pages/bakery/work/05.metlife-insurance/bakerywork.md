@@ -7,7 +7,6 @@ toggle: true
 big_image: metlife.jpg
 video: 'null'
 logo_light: metlife.png
-heading_two: 'Emotions that drive the kids insurance'
 media: metlife.png
 ---
 
