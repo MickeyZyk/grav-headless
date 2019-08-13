@@ -16,7 +16,7 @@ slider:
         link: /czbakers-about
         image: shutterstock_150332981_small.jpg
     -
-        title: 'TVOŘTE S NÁMI BUDOUCNOST'
+        title: 'TVOŘTE S NÁMI BUDOUCNOST '
         link: /czbakers-about
         image: shutterstock_320971742_Bakers_small.jpg
 media: 'shutterstock_770336959_small.jpg,shutterstock_150332981_small.jpg,bakers_01.jpg,shutterstock_320971742_Bakers_small.jpg'
