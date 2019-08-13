@@ -7,7 +7,7 @@ paragraph_one: 'A safe place where those who are searching for the great idea me
 subheading_two: 'We are a group of enthusiasts and passionate thinkers'
 image_two: hairguy.jpg
 paragraph_two: 'We believe that a great idea can pop up anywhere: in a bar, during a wonderfully peaceful weekend, while running, before going to bed, while chatting with your loved one, from a student, retiree or stay-at-home mom or dad.'
-link_one: /bakerscontact
+link_one: /bakerslogin
 link_one_text: 'JOIN US'
 problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
@@ -20,7 +20,7 @@ icon04_text: 'Magda, professor, loves psychology'
 icon05_text: 'Dan, doctor, likes to go for a beer'
 icon06_text: 'Karel, business owner'
 icon07_text: 'Bozena, grandma, likes to cook'
-icons_link_one: /bakerscontact
+icons_link_one: /bakerslogin
 icons_link_one_text: 'JOIN US'
 icons_link_two: /bakers-for-clients
 icons_link_two_text: 'BRIEF US'
@@ -46,7 +46,7 @@ bakers_heading: Bakers
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
-link_two: /bakerscontact
+link_two: /bakerslogin
 link_two_text: ' JOIN US'
 svg_icons:
     -
