@@ -71,6 +71,15 @@ authors_heading: 'What authors say...'
 authors_image: hipster.jpg
 author_texts:
     -
+        name: 'Ondra Bolvári'
+        text: 'Thanks to you I’ve found a direction or, actually a sense of my life. Because I did not know for long what I might be interested in… and then you came and taught me to freely put my ideas on paper and surprisingly, they caught someone’s attention. So even though I graduated from IT school, I plunged myself into online marketing where I found myself. Now I manage my e-shop and do the marketing around and this is where I got purely thanks to Future Bakery. It would never come to my mind to be interested in that sphere because I did not now it then.'
+    -
+        name: 'Martin Melichna'
+        text: 'You spur me on and fueled me with a self-fulfilment and joy from picking the sweetest and juiciest fruits when my ideas were selected as the winning ones. Future Bakery literally catapulted me into much more competitive spheres and levels than I had ever been.'
+    -
+        name: 'Nela Vaculíčková'
+        text: 'What does Future Bakery platform mean to me? Primarily it’s a heart matter. It’s a passion. It’s a joy. It’s moment when I can influence the world around me. It’s my Future Bakery.'
+    -
         name: 'Lenka Sychrá'
         text: 'The challenge, the drive, the possibility to achieve something and check I can do it (or not). The possibility to spin my brain into full speed (?) and, moreover, the chance to get a reward. Thanks to you I can experience an interesting state of mind and a lot of emotions: curiosity, sometimes reluctance, but most of the time enthusiasm when I read a new project brief. Then comes an intensive thinking, creativity, idea check and the joy that I managed to accomplish the work. And the best about it is when I finally win, then I am overwhelmed by extreme happiness.'
     -
@@ -85,9 +94,6 @@ author_texts:
     -
         name: 'Adam Škápa'
         text: 'Future Bakery as a strong, original story. Future Bakery is a mediator, visionary, monk, guru, teacher, master, lover, sex, wild passion as well as a game with clear rules… crime and punishment, feast and work, entertainment, euphoria as well as hard work or tears, winning and losing, lover and friend…. Future Bakery is a laboratory of positive emotions, of inner challenge, it’s an alchymist. Future Bakery is primarily a strong original positive story! Future Bakery clearly and sensitively sets cooperation rules for everybody and clarifies mutual orientation. There is no discrimination or limits to your fantasy, motivation is the main aspect which Future Bakery uses phenomenally. And there is a feedback and final evaluation.'
-    -
-        name: 'Michal Černý'
-        text: 'It is a great means of self realization and use of innate talent which companies a person from basic school when his / her story got into a school magazine. The first public copy is simply experience that you can do with or you go further and as you grow you find out what power the word has and how you can shape it. This platform offers me such experience and moreover, with such well-known brands. Every author has a message, subconscious information or experience that he or she want to send further to the world. And each of these opportunities should not be just left. Above al this there is a simple joy from creating and sometimes a great message that your idea was liked and has been processed among the winning ones.'
 reward: '287 000 USD'
 ideas: '42 587'
 bakers: '11 893'
