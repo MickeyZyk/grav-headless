@@ -67,7 +67,7 @@ svg_icons:
     -
         svg: smile.svg
         svg_text: '<p>If not this time, no worries, there will be more projects</p>'
-authors_heading: 'What authors say...'
+authors_heading: 'Co říkají autoři...'
 authors_image: hipster.jpg
 author_texts:
     -
