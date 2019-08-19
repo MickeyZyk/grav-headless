@@ -36,7 +36,7 @@ team:
         member: 'Petr Topinka'
         member_text: "For past 30 years I have worked with the owners and leaders of successful companies across the whole world. Even with politicians and country leaders.\r\nI help them with strategic marketing and communication.\r\nFor many years I was connected with BBDO Worldwide agency network. I worked in BBDO Toronto and lead Prague office which stood behind great creative and business projects in the Czech Republic and CEE region. I found and helped unlock hundreds of talents.\r\nAll this helped me see even more clearly that the crowd can do more that “the above”.\r\nThat’s why Robert Peňažka and I have built Future Bakery platform. For everybody to participate, for us to listen better and for things to work better."
         link_two: petr@futurebakery.cz
-        image: topinka_peter_8744-2_792x1057_bw.jpg
+        image: topinka_peter_792x1057_bw-green.jpg
     -
         member: 'Alena Pelcova '
         member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
@@ -97,6 +97,6 @@ author_texts:
 reward: '287 000 USD'
 ideas: '42 587'
 bakers: '11 893'
-media: 'clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,location.svg,hairguy.jpg,painter.jpg,pelcova.jpg,register.svg,smile.svg,kid.jpg,penazka_robert_8696-2_792x1057.jpg,topinka_peter_8744-2_792x1057.jpg,penazka_robert_8696-2_792x1057_bw.jpg,topinka_peter_8744-2_792x1057_bw.jpg'
+media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,topinka_peter_792x1057_bw-green.jpg'
 ---
 
