@@ -96,18 +96,21 @@ team:
         member: 'Robert Peňažka'
         member_text: "I have been in the world of communication and creativity for 25 years. I constantly start to be able to finish and I finish to be able to start.\r\nAfter 9 years I ended up as the leader of Leo Burnett Prague, I set up Kaspen agency to leave after 7 years and established Yinachi studio.\r\nI seek passionate Clients, I connect the world of commercialism / advertising and art.\r\nI stand behind “Kmeny” project, “Neboj” or “Velký bobek” books. I publish Magnus magazine.\r\nI am an uncle of Kašpárek v rohlíku and Kefír festival. I cofounded “Rodiče vítáni” (“Parents welcome”) and together with Petr Topinka we built Future Bakery family."
         link_two: robert@futurebakery.com
-        image: penazka_robert_8696-2_792x1057_bw.jpg
+        image: penazka_robert_792x1057_bw-green.jpg
     -
         member: 'Petr Topinka'
         member_text: "For past 30 years I have worked with the owners and leaders of successful companies across the whole world. Even with politicians and country leaders.\r\nI help them with strategic marketing and communication.\r\nFor many years I was connected with BBDO Worldwide agency network. I worked in BBDO Toronto and lead Prague office which stood behind great creative and business projects in the Czech Republic and CEE region. I found and helped unlock hundreds of talents.\r\nAll this helped me see even more clearly that the crowd can do more that “the above”.\r\nThat’s why Robert Peňažka and I have built Future Bakery platform. For everybody to participate, for us to listen better and for things to work better."
         link_two: petr@futurebakery.com
-        image: topinka_peter_8744-2_792x1057_bw.jpg
+        image: topinka_peter_792x1057_bw-green.jpg
+    -
+        member: 'Alex Braun'
+        image: braun_alex_792x1057_bw-green.jpg
     -
         member: 'Alena Pelcová'
         member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
         link_two: alena@futurebakery.cz
         image: bw_pelcova.jpg
-media: 'network.svg,penazka_robert_8696-2_792x1057.jpg,bublology.png,bw_pelcova.jpg,clavin.png,target.svg,czechinn.png,bulb.svg,phones.svg,fiver.svg,creative-dock.png,rainbow.svg,bang.svg,bos.png,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,pelcova.jpg,cebia.png,coyote.png,logo_pscp.png,graph.svg,desk.jpg,topinka_peter_8744-2_792x1057.jpg,gauge.svg,captain-morgan.png,topinka_peter_8744-2_792x1057_bw.jpg,bos.png,bublology.png,captain-morgan.png,cebia.png,clavin.png,coyote.png,creative-dock.png,czechinn.png,das.png,dongoiovan.png,dukla.png,emco.png,fiat.png,grants.png,hello.png,hledamerodice.png,j&t-banka.png,jihoceska-univerzita.png,jsmefer.png,k.png,keiki.png,klara.png,kofola.png,kooperativa.png,mallcz.png,mccann.png,mctree.png,metaxa.png,metlife.png,milka.png,muller.png,ntm.png,ostravar.png,pragtique.png,prvniklubova.png,pscp.png,rafun.png,rohlikcz.png,ruzovyslon.png,suchej-unor.png,unyp.png,zonky.png,zoot.png'
+media: 'network.svg,penazka_robert_8696-2_792x1057.jpg,bublology.png,bw_pelcova.jpg,suchej-unor.png,clavin.png,target.svg,czechinn.png,zoot.png,bulb.svg,jihoceska-univerzita.png,phones.svg,fiver.svg,unyp.png,creative-dock.png,dongoiovan.png,rainbow.svg,milka.png,emco.png,k.png,bang.svg,bos.png,metaxa.png,ostravar.png,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,pelcova.jpg,ruzovyslon.png,mccann.png,cebia.png,dukla.png,jsmefer.png,coyote.png,logo_pscp.png,kofola.png,pscp.png,hledamerodice.png,hello.png,grants.png,graph.svg,fiat.png,pragtique.png,ntm.png,rohlikcz.png,desk.jpg,topinka_peter_8744-2_792x1057.jpg,gauge.svg,captain-morgan.png,kooperativa.png,metlife.png,mallcz.png,klara.png,das.png,prvniklubova.png,rafun.png,topinka_peter_8744-2_792x1057_bw.jpg,zonky.png,keiki.png,muller.png,mctree.png,j&t-banka.png,braun_alex_792x1057_bw-green.jpg,penazka_robert_792x1057_bw-green.jpg,topinka_peter_792x1057_bw-green.jpg'
 media_order: ''
 body_classes: ''
 order_by: ''
