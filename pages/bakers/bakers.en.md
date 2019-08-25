@@ -1,4 +1,5 @@
 ---
+date: '01/01/2014 3:12pm'
 slider:
     -
         title: 'UNLEASH YOUR CREATIVITY AND IDEAS'
