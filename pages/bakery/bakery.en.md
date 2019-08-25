@@ -1,4 +1,5 @@
 ---
+date: '01/01/2014 3:10pm'
 slider:
     -
         title: 'THE FUTURE IS HERE'
