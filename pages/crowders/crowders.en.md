@@ -1,4 +1,5 @@
 ---
+date: '01/01/2019 3:14pm'
 slider:
     -
         title: 'WE CREATE DEMAND'
