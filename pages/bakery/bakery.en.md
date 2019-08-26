@@ -1,5 +1,4 @@
 ---
-date: '01/01/2014 3:10pm'
 slider:
     -
         title: 'THE FUTURE IS HERE'
@@ -22,6 +21,7 @@ slider:
         link: /bakery-about
         image: shutterstock_1159947316_small.jpg
 media: 'image.jpg,shutterstock_155344466_small.jpg,shutterstock_771033703_small.jpg,shutterstock_1159947316_small.jpg'
+date: '01/01/2014 3:10pm'
 title: Bakery
 visible: false
 ---
