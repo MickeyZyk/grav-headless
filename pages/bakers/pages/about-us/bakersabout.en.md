@@ -14,12 +14,12 @@ problem_heading_two: 'Lots of people, lots of ideas'
 problem_heading_three: Solution
 problem_text: 'how can be a name for fisherman''s beer?'
 icon01_text: 'Jana, bank manager, loves writing'
-icon02_text: 'Dana, student, likes to draw'
+icon02_text: 'Bozena, grandma, likes to cook'
 icon03_text: 'Honza, yoga instructor, loves healthy lifestyle'
 icon04_text: 'Magda, professor, loves psychology'
 icon05_text: 'Dan, doctor, likes to go for a beer'
 icon06_text: 'Karel, business owner'
-icon07_text: 'Bozena, grandma, likes to cook'
+icon07_text: 'Dana, student, likes to draw'
 icons_link_one: /bakerslogin
 icons_link_one_text: 'JOIN US'
 icons_link_two: /bakers-for-clients
