@@ -2,8 +2,8 @@
 heading_one: 'Našli jsme tisíce talentů, kteří jsou připraveni pomoct rozlousknout Váš problém nebo vymyslet nápady pro Váš byznys. '
 paragraph_one: 'Jen nápady nestačí a potřebujete píchnout i s analýzou, strategií nebo koncepcí? Dejte nám vědět.'
 image_one: rocket.jpg
-link_one_text: 'BRIEF US'
-link_two_text: 'CALL US'
+link_one_text: 'POŠLETE ZADÁNÍ'
+link_two_text: ZAVOLEJTE
 heading_two: 'Looking for ideas or a solution to a problem? '
 step_one: 'Fill out our Client Contact Form'
 step_two: 'Make a detailed description of the problem or the task in hand (we can help you with this)'
