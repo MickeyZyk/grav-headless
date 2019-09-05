@@ -1,6 +1,7 @@
 ---
 heading_one: 'We found thousands of creative people, who are ready to help you solve your problem, or find a direction for your business.'
 paragraph_one: 'This is where you can submit your brief and generate wonderful ideas. We can provide additional services among others analysis of the ideas, creation of a strategy or plan of action. You can let us know, what exactly you need from Future Bakers.'
+image_one: rocket.jpg
 link_one_text: 'BRIEF US'
 link_two_text: 'CALL US'
 heading_two: 'Looking for ideas or a solution to a problem? '
