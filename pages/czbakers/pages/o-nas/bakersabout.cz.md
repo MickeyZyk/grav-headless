@@ -68,7 +68,7 @@ svg_icons:
         svg_text: '<p>Už&iacute;vejte si odměnu</p>'
     -
         svg: smile.svg
-        svg_text: '<p>If not this time, no worries, there will be more projects</p>'
+        svg_text: '<p><span class="s1">A pokud to nevy&scaron;lo teď, nezoufejte, třeba osln&iacute;te sv&yacute;m n&aacute;padem př&iacute;&scaron;tě</span></p>'
 authors_heading: 'Co říkají autoři...'
 authors_image: hipster.jpg
 author_texts:
@@ -99,7 +99,7 @@ author_texts:
     -
         name: 'Michal Černý'
         text: 'Je to skvělá možnost seberealizace a uplatnění jakéhosi vrozeného talentu, který člověka provází už od základní školy, kdy se jeho příběh dostal do školního časopisu. První zveřejněný text je prostě zkušenost, která vám buď stačí a jdete dál, anebo vás fascinuje a jak rostete, zjišťujete, jakou má slovo moc a jak je tvárné. Tato platforma mi umožňuje takovou zkušenost zažít navíc rovnou i s takovými značkami, které prostupují celou společností, k čemuž se pojí jeden zajímavý fakt. Každý autor má nějakou message, podvědomou informaci, zkušenost, kterou různými formami chce poslat dál do světa. A každá taková příležitost, kdy tohle svoje poselství můžete propašovat do světa, který ovlivňuje lidské vědomí, by se neměla nechat odejít jen tak. Ale nad tím vším je prostě a jednoduše radost z tvoření a občas i skvělá zpráva, že právě váš nápad se líbil, zaujal a posunul prvotní myšlenku zásadním způsobem k cíli.'
-reward: '2.724.000,-CZK'
+reward: '2.724.000, -Kč'
 ideas: '49 000'
 bakers: '25452'
 media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,topinka_peter_792x1057_bw-orange.jpg,penazka_robert_792x1057_bw-orange.jpg,braun_alex_792x1057_bw-orange.jpg'
