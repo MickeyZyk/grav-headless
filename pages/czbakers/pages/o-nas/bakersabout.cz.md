@@ -1,5 +1,5 @@
 ---
-title: '.O nás'
+title: 'O nás'
 heading_one: 'Kdo jsme'
 subheading_one: 'Jsme prostor, který dává možnost probudit kreativitu a nápady v každém z nás.'
 image_one: painter.jpg
