@@ -7,7 +7,7 @@ paragraph_one: "Místo, kde se potkávají ti, co nápady hledají, s těmi, co 
 subheading_two: 'Jsme skupina neúnavných nadšenců.'
 image_two: hairguy.jpg
 paragraph_two: "Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv.\r\nZ knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ..."
-link_one: /czbakerscontact
+link_one: /czbakerslogin
 link_one_text: 'PŘIPOJ SE K NÁM'
 problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
@@ -20,7 +20,7 @@ icon04_text: 'Božena, babička, ráda vaří'
 icon05_text: 'Magda, profesorka, miluje psychologii'
 icon06_text: 'Linda. Má svou firmu'
 icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl'
-icons_link_one: /czbakerscontact
+icons_link_one: /czbakerslogin
 icons_link_one_text: 'PŘIPOJ SE K NÁM'
 icons_link_two: /czbakers-for-clients
 icons_link_two_text: 'POŠLETE ZADÁNÍ'
@@ -49,7 +49,7 @@ bakers_heading: Bakers
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
-link_two: /czbakerscontact
+link_two: /czbakerslogin
 link_two_text: 'PŘIPOJ SE K NÁM'
 svg_icons:
     -
