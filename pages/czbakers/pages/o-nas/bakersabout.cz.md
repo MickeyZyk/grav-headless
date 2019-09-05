@@ -48,6 +48,7 @@ team:
 bakers_heading: Tvůrci
 image_three: kid.jpg
 bakers_paragraph_one: 'Dejte volnost nápadům a kreativitě v sobě. Máme pro Vás na rozlousknutí pár oříšků od zajímavých firem a značek.'
+bakers_paragraph_two: .
 link_two: /czbakerslogin
 link_two_text: 'PŘIPOJ SE K NÁM'
 svg_icons:
