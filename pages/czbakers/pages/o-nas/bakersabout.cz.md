@@ -45,9 +45,9 @@ team:
         member_text: "Představte si, že máte rodinu, kde jsou tisíce příbuzných.\r\nTak přesně o takovou rodinu se Alena stará. Rodinu Future Bakery, kde je asi pětadvacettisíc lidí “z davu”. Lidí, kteří mají super energii a nápady.  \r\nMoc dobře víme, že nikdo nejsme tak chytří jako my všichni dohromady. I to, že kreativní jsme všichni. Stačí dát impuls a už to jede. Tenhle svět je plný kreativity, svěžích a pro někoho divních nápadů a pohledů na svět. Naše práce je s tím umět pracovat a dát těmu všemu život."
         link_two: pelcova.alena@futurebakery.com
         image: bw_pelcova.jpg
-bakers_heading: Bakers
+bakers_heading: Tvůrci
 image_three: kid.jpg
-bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
+bakers_paragraph_one: 'Dejte volnost nápadům a kreativitě v sobě. Máme pro Vás na rozlousknutí pár oříšků od zajímavých firem a značek.'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
 link_two: /czbakerslogin
 link_two_text: 'PŘIPOJ SE K NÁM'
