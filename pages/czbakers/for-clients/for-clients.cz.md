@@ -1,6 +1,6 @@
 ---
-heading_one: 'Našli jsme tisíce talentů, kteří jsou připraveni pomoct rozlousknout Váš problém nebo vymyslet nápady pro Váš byznys. Jen nápady nestačí a potřebujete píchnout i s analýzou, strategií nebo koncepcí? Dejte nám vědět.'
-paragraph_one: 'This is where you can submit your brief and generate wonderful ideas. We can provide additional services among others analysis of the ideas, creation of a strategy or plan of action. You can let us know, what exactly you need from Future Bakers.'
+heading_one: 'Našli jsme tisíce talentů, kteří jsou připraveni pomoct rozlousknout Váš problém nebo vymyslet nápady pro Váš byznys. '
+paragraph_one: 'Jen nápady nestačí a potřebujete píchnout i s analýzou, strategií nebo koncepcí? Dejte nám vědět.'
 image_one: rocket.jpg
 link_one_text: 'BRIEF US'
 link_two_text: 'CALL US'
