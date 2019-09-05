@@ -13,7 +13,7 @@ problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
 problem_heading_three: Solution
 problem_text: 'Na co teď slyší teenageři?'
-icon01_text: 'ana, manažerka v bance, miluje psaní'
+icon01_text: 'Ana, manažerka v bance, miluje psaní'
 icon02_text: 'Dana, studentka, ráda kreslí'
 icon03_text: 'Dan, zdravotník, rád zajde na pivo'
 icon04_text: 'Božena, babička, ráda vaří'
