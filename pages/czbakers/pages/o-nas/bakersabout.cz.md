@@ -12,7 +12,7 @@ link_one_text: 'PŘIPOJ SE K NÁM'
 problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
 problem_heading_three: Solution
-problem_text: 'how can be a name for fisherman''s beer?'
+problem_text: 'Na co teď slyší teenageři?'
 icon01_text: 'ana, manažerka v bance, miluje psaní'
 icon02_text: 'Dana, studentka, ráda kreslí'
 icon03_text: 'Dan, zdravotník, rád zajde na pivo'
