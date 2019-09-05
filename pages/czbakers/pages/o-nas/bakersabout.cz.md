@@ -99,7 +99,7 @@ author_texts:
     -
         name: 'Michal Černý'
         text: 'Je to skvělá možnost seberealizace a uplatnění jakéhosi vrozeného talentu, který člověka provází už od základní školy, kdy se jeho příběh dostal do školního časopisu. První zveřejněný text je prostě zkušenost, která vám buď stačí a jdete dál, anebo vás fascinuje a jak rostete, zjišťujete, jakou má slovo moc a jak je tvárné. Tato platforma mi umožňuje takovou zkušenost zažít navíc rovnou i s takovými značkami, které prostupují celou společností, k čemuž se pojí jeden zajímavý fakt. Každý autor má nějakou message, podvědomou informaci, zkušenost, kterou různými formami chce poslat dál do světa. A každá taková příležitost, kdy tohle svoje poselství můžete propašovat do světa, který ovlivňuje lidské vědomí, by se neměla nechat odejít jen tak. Ale nad tím vším je prostě a jednoduše radost z tvoření a občas i skvělá zpráva, že právě váš nápad se líbil, zaujal a posunul prvotní myšlenku zásadním způsobem k cíli.'
-reward: '2.724.000, -Kč'
+reward: '2.724.000,- Kč'
 ideas: '49 000'
 bakers: '25452'
 media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,topinka_peter_792x1057_bw-orange.jpg,penazka_robert_792x1057_bw-orange.jpg,braun_alex_792x1057_bw-orange.jpg'
