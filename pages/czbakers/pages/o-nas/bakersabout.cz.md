@@ -1,5 +1,5 @@
 ---
-title: 'O nás'
+title: '.O nás'
 heading_one: 'Kdo jsme'
 subheading_one: 'Jsme prostor, který dává možnost probudit kreativitu a nápady v každém z nás.'
 image_one: painter.jpg
@@ -16,10 +16,10 @@ problem_text: 'Na co teď slyší teenageři?'
 icon01_text: 'Ana, manažerka v bance, miluje psaní'
 icon02_text: 'Dana, studentka, ráda kreslí'
 icon03_text: 'Dan, zdravotník, rád zajde na pivo'
-icon04_text: 'Božena, babička, ráda vaří'
-icon05_text: 'Magda, profesorka, miluje psychologii'
-icon06_text: 'Linda. Má svou firmu'
-icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl'
+icon04_text: 'Božena, babička, ráda vaří.'
+icon05_text: 'Magda, profesorka, miluje psychologii.'
+icon06_text: 'Linda. Má svou firmu.'
+icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl.'
 icons_link_one: /czbakerslogin
 icons_link_one_text: 'PŘIPOJ SE K NÁM'
 icons_link_two: /czbakers-for-clients
