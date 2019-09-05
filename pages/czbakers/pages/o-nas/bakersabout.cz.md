@@ -48,13 +48,12 @@ team:
 bakers_heading: Tvůrci
 image_three: kid.jpg
 bakers_paragraph_one: 'Dejte volnost nápadům a kreativitě v sobě. Máme pro Vás na rozlousknutí pár oříšků od zajímavých firem a značek.'
-bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
 link_two: /czbakerslogin
 link_two_text: 'PŘIPOJ SE K NÁM'
 svg_icons:
     -
         svg: register.svg
-        svg_text: '<p><strong>Zaregistrujte se</strong> a staňte se souč&aacute;st&iacute; největ&scaron;&iacute;ho kreativn&iacute;ho oddělen&iacute; v Česk&eacute; republice</p>'
+        svg_text: '<p>Zaregistrujte se a staňte se souč&aacute;st&iacute; největ&scaron;&iacute;ho kreativn&iacute;ho oddělen&iacute; v Česk&eacute; republice</p>'
     -
         svg: location.svg
         svg_text: '<p>Vyberte si ty nejzaj&iacute;mavěj&scaron;&iacute; zad&aacute;n&iacute; a probl&eacute;my</p>'
