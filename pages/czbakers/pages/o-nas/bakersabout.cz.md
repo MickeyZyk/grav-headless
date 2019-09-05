@@ -9,9 +9,9 @@ image_two: hairguy.jpg
 paragraph_two: "Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv.\r\nZ knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ..."
 link_one: /czbakerslogin
 link_one_text: 'PŘIPOJ SE K NÁM'
-problem_heading_one: Problem
-problem_heading_two: 'Lots of people, lots of ideas'
-problem_heading_three: Solution
+problem_heading_one: Problém
+problem_heading_two: 'Spousta lidí, spousta nápadů'
+problem_heading_three: Řešení
 problem_text: 'Na co teď slyší teenageři?'
 icon01_text: 'Ana, manažerka v bance, miluje psaní'
 icon02_text: 'Dana, studentka, ráda kreslí'
