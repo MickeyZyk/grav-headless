@@ -23,6 +23,9 @@ form_label_seven: 'Text objednávky'
 form_label_eight: 'Souhlas s GDPR..'
 form_label_nine: 'Souhlasim s podminkami FutureBakery'
 form_send_button: ODESLAT
+form_bottom_link_one: 'VŠEOBECNÉ OBCHODNÍ PODMÍNKY PRO ZADAVATELE'
+form_bottom_link_two: 'VŠEOBECNÉ OBCHODNÍ PODMÍNKY PRO AUTORY'
+media: rocket.jpg
 title: 'For Clients'
 ---
 
