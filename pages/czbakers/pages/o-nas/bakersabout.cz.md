@@ -8,7 +8,7 @@ subheading_two: 'Jsme skupina neúnavných nadšenců.'
 image_two: hairguy.jpg
 paragraph_two: "Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv.\r\nZ knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ..."
 link_one: /czbakerslogin
-link_one_text: 'PŘIPOJ SE K NÁM'
+link_one_text: 'PŘIDEJTE SE K NÁM'
 problem_heading_one: Problém
 problem_heading_two: 'Spousta lidí, spousta nápadů'
 problem_heading_three: Řešení
@@ -24,7 +24,7 @@ icon05_text: 'Magda, profesorka, miluje psychologii.'
 icon06_text: 'Linda. Má svou firmu.'
 icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl.'
 icons_link_one: /czbakerslogin
-icons_link_one_text: 'PŘIPOJ SE K NÁM'
+icons_link_one_text: 'PŘIDEJTE SE K NÁM'
 icons_link_two: /czbakers-for-clients
 icons_link_two_text: 'POŠLETE ZADÁNÍ'
 team_section_heading: 'Kdo za námi stojí?'
