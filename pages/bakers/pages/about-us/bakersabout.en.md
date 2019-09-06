@@ -12,7 +12,10 @@ link_one_text: 'JOIN US'
 problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
 problem_heading_three: Solution
-problem_text: 'how can be a name for fisherman''s beer?'
+problem_text: 'How are today''s teenagers thinking?'
+problem_text_two: 'How to improve a place of living?'
+problem_text_three: 'We’re looking for new campaign ideas.'
+problem_text_four: 'How to make paying in the future easier?'
 icon01_text: 'Jane, a bank manager, she loves reading.'
 icon02_text: 'Božena, a grandma, fond of cooking.'
 icon03_text: 'Lucy, a yoga teacher. Loves healthy life style.'
