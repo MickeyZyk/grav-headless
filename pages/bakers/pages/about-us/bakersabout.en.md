@@ -4,11 +4,19 @@ heading_one: 'Who we are'
 subheading_one: 'A space for creative people with amazing ideas.'
 image_one: painter.jpg
 paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where the idea creators – who we call BAKERS get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We want to give everybody a chance to contribute. We believe the more idea makers we have, the more we can all move forward.'
+link_one: /bakerslogin
+link_one_text: 'JOIN US'
+link_one_divider: 'or find out how to'
+link_one_brief: /bakers-for-clients
+link_one_brief_text: 'BRIEF US'
 subheading_two: 'We are a group of enthusiasts and passionate thinkers'
 image_two: hairguy.jpg
 paragraph_two: 'We believe that a great idea can pop up anywhere: in a bar, during a wonderfully peaceful weekend, while running, before going to bed, while chatting with your loved one, from a student, retiree or stay-at-home mom or dad.'
-link_one: /bakerslogin
-link_one_text: 'JOIN US'
+link_second: /bakerslogin
+link_second_text: 'JOIN US'
+link_second_divider: 'or find out how to'
+link_second_brief: /bakers-for-clients
+link_second_brief_text: 'BRIEF US'
 problem_heading_one: Problem
 problem_heading_two: 'Lots of people, lots of ideas'
 problem_heading_three: Solution
