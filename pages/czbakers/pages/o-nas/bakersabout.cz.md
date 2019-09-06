@@ -4,11 +4,19 @@ heading_one: 'Kdo jsme'
 subheading_one: 'Jsme prostor, který dává možnost probudit kreativitu a nápady v každém z nás.'
 image_one: painter.jpg
 paragraph_one: "Místo, kde se potkávají ti, co nápady hledají, s těmi, co je mají. Ti, co je hledají, dostanou na výběr z mnoha skvělých nápadů. Ti, co je mají, dostanou odměnu, když je jejich nápad vybrán.\r\nJsme nekonečná skupina tvůrčích a vynalézavých lidí.\r\nMyslíme, že je důležité vytvářet prostor pro tvorbu a nápady. Věříme, že je fér dát možnost každému, kdo chce tvořit. Proto je nás tolik a snažíme se růst každým dnem."
+link_one: /czbakerslogin
+link_one_text: 'PŘIDEJTE SE K NÁM'
+link_one_divider: nebo
+link_one_brief: /czbakers-for-clients
+link_one_brief_text: 'POŠLETE ZADÁNÍ'
 subheading_two: 'Jsme skupina neúnavných nadšenců.'
 image_two: hairguy.jpg
 paragraph_two: "Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv.\r\nZ knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ..."
-link_one: /czbakerslogin
-link_one_text: 'PŘIDEJTE SE K NÁM'
+link_second: /czbakerslogin
+link_second_text: 'PŘIDEJTE SE K NÁM'
+link_second_divider: nebo
+link_second_brief: /czbakers-for-clients
+link_second_brief_text: 'POŠLETE ZADÁNÍ'
 problem_heading_one: Problému
 problem_heading_two: 'Spousta lidí, spousta nápadů'
 problem_heading_three: Řešení
