@@ -33,6 +33,7 @@ icon06_text: 'Linda. Má svou firmu.'
 icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl.'
 icons_link_one: /czbakerslogin
 icons_link_one_text: 'PŘIDEJTE SE K NÁM'
+icons_links_divider: nebo
 icons_link_two: /czbakers-for-clients
 icons_link_two_text: 'POŠLETE ZADÁNÍ'
 team_section_heading: 'Kdo za námi stojí?'
