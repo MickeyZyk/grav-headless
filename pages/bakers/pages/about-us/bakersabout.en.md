@@ -33,6 +33,7 @@ icon06_text: 'Linda. Runs her company.'
 icon07_text: 'Dana, a student, she likes to draw.'
 icons_link_one: /bakerslogin
 icons_link_one_text: 'JOIN US'
+icons_links_divider: 'or find out how to'
 icons_link_two: /bakers-for-clients
 icons_link_two_text: 'BRIEF US'
 team_section_heading: 'Who is behind the scenes of Future Bakers?'
