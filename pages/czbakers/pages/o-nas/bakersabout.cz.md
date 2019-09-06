@@ -13,10 +13,10 @@ problem_heading_one: Problém
 problem_heading_two: 'Spousta lidí, spousta nápadů'
 problem_heading_three: Řešení
 problem_text: 'Na co teď slyší teenageři?'
-icon01_text: 'Ana, manažerka v bance, miluje psaní'
+icon01_text: 'Jana, manažerka v bance, miluje psaní'
 icon02_text: 'Dana, studentka, ráda kreslí'
-icon03_text: 'Dan, zdravotník, rád zajde na pivo'
-icon04_text: 'Božena, babička, ráda vaří.'
+icon03_text: 'Dan, zdravotník, rád zajde na pivo.'
+icon04_text: 'Božena, babička, ráda vaří'
 icon05_text: 'Magda, profesorka, miluje psychologii.'
 icon06_text: 'Linda. Má svou firmu.'
 icon07_text: 'Lucka, cvičitelka jógy, miluje zdravý životní styl.'
