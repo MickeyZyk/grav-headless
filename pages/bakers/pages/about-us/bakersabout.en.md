@@ -63,7 +63,7 @@ link_two_text: ' JOIN US'
 svg_icons:
     -
         svg: register.svg
-        svg_text: '<p><strong>REGISTER</strong> and you will be a part of our global creative family</p>'
+        svg_text: '<p>REGISTER and you will be a part of our global creative family</p>'
     -
         svg: location.svg
         svg_text: '<p>Choose your Areas of Interest</p>'
