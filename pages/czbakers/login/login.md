@@ -1,6 +1,6 @@
 ---
-heading: 'Vymýšlejte s námi nápady - odměnujeme ty nejlepší'
-subheading: 'Jsou nás tu tisíce, co to uz udelali. Ale stále je více tech, kterí vase nápady potrebují.'
+heading: 'Vymýšlejte s námi nápady - odměňujeme ty nejlepší'
+subheading: 'Jsou nás tu tisíce, co už to udělali. Ale stále je více těch, kteří vaše nápady potřebují.'
 image: planekid.jpg
 link_one_text: 'PŘIHLÁSIT SE'
 link_one_url: 'https://futurebakers.wnh.cz/cs/sign/in'
