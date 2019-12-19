@@ -108,9 +108,9 @@ author_texts:
         text: 'Future Bakery as a strong, original story. Future Bakery is a mediator, visionary, monk, guru, teacher, master, lover, sex, wild passion as well as a game with clear rules… crime and punishment, feast and work, entertainment, euphoria as well as hard work or tears, winning and losing, lover and friend…. Future Bakery is a laboratory of positive emotions, of inner challenge, it’s an alchymist. Future Bakery is primarily a strong original positive story! Future Bakery clearly and sensitively sets cooperation rules for everybody and clarifies mutual orientation. There is no discrimination or limits to your fantasy, motivation is the main aspect which Future Bakery uses phenomenally. And there is a feedback and final evaluation.'
 bakers_in_numbers: ' '
 reward: '2.724.000,- Kč'
-reward_label: Reward
+reward_label: 'Total reward'
 ideas: '49 000'
-ideas_label: Ideas
+ideas_label: 'Creative ideas'
 bakers: '25452'
 bakers_label: Bakers
 media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,braun_alex_792x1057_bw-orange.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg'
