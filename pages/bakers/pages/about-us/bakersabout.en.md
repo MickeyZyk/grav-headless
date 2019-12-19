@@ -111,7 +111,7 @@ reward: '2.724.000,- Kč'
 reward_label: 'Total reward'
 ideas: '49 000'
 ideas_label: 'Creative ideas'
-bakers: '25453'
+bakers: '25459'
 bakers_label: Bakers
 media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,braun_alex_792x1057_bw-orange.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg'
 ---
