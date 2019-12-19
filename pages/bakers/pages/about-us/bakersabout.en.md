@@ -54,7 +54,7 @@ team:
         member_text: "Imagine you have a family with thousands of relatives.\r\nThis is exactly the family Alena takes care of. Future Bakery family comprising of twenty five thousands people from the crowd. People with great energy and ideas.\r\nWe know very well that none of us is as smart as we all together. Also, that we are all creative. It’s enough to give impulse and it rolls off. This world is full of creativity, fresh and - for somebody - weird ideas and insights. Our work is to work well with this and give it all a life."
         link_two: pelcova.alena@futurebakery.com
         image: ALENA-orange.jpg
-bakers_heading: Bakers
+bakers_heading: 'Is your head full of ideas?'
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
 bakers_paragraph_two: 'Are you always thinking of that next wonderful product or are you passionate about creativity, writing or digital design? Or you just love sharing your opinion.'
