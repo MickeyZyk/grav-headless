@@ -7,6 +7,7 @@ toggle: true
 big_image: metlife.jpg
 video: 'null'
 logo_light: metlife.png
+heading_two: 'MET LIFE CASE STUDY'
 media: metlife.png
 ---
 
