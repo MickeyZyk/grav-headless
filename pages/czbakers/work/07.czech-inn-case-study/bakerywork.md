@@ -5,7 +5,8 @@ heading_one: 'Společně s Czech Inn Hotels jsme vytvořili nový koncept ubytov
 toggle: '-1'
 big_image: czechinn.jpg
 video: 'null'
+logo_light: dummy.png
 heading_two: 'Czech Inn Case Study'
-media: czechinn.jpg
+media: 'czechinn.jpg,dummy.png'
 ---
 
