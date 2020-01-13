@@ -1,5 +1,6 @@
 ---
 title: 'Czech Inn Case Study'
+logo_dark: dummy.png
 heading_tag: Innovation
 heading_one: 'Together with Czech Inn Hotels developed strategies for new ways of accommodation'
 toggle: '-1'
