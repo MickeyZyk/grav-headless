@@ -5,7 +5,8 @@ heading_one: 'Helped Direct Insurance to see the future role of insurance busine
 toggle: '-1'
 big_image: direct.jpg
 video: 'null'
+logo_light: dummy.png
 heading_two: 'Pojištovna Direct Case Study'
-media: direct.jpg
+media: 'direct.jpg,dummy.png'
 ---
 
