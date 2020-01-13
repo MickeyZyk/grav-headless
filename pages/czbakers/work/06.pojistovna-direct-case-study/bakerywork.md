@@ -5,7 +5,8 @@ heading_one: 'Pojišťovně Direct jsme pomohli zmapovat roli pojištění v bud
 toggle: '-1'
 big_image: direct.jpg
 video: 'null'
+logo_light: dummy.png
 heading_two: 'Pojištovna Direct Case Study'
-media: direct.jpg
+media: 'direct.jpg,dummy.png'
 ---
 
