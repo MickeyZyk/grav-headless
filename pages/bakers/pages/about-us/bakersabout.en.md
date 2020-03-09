@@ -3,7 +3,7 @@ title: 'About Us '
 heading_one: 'Who we are '
 subheading_one: 'A space for creative people with amazing ideas.'
 image_one: painter.jpg
-paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where the idea creators – who we call BAKERS get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We want to give everybody a chance to contribute. We believe the more idea makers we have, the more we can all move forward.'
+paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where the idea creators – BAKERS get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We wish to give everybody a chance to contribute and believe the more idea makers we have, the further we get.'
 link_one: /bakerslogin
 link_one_text: 'JOIN US'
 link_one_divider: 'or find out how to'
@@ -63,7 +63,7 @@ link_two_text: ' JOIN US'
 svg_icons:
     -
         svg: register.svg
-        svg_text: '<p>REGISTER and you will be a part of our global creative family</p>'
+        svg_text: '<p>REGISTER and become a member of our creative family</p>'
     -
         svg: location.svg
         svg_text: '<p>Choose your Areas of Interest</p>'
@@ -72,14 +72,14 @@ svg_icons:
         svg_text: '<p>Send your ideas</p>'
     -
         svg: clock.svg
-        svg_text: '<p>Then you can wait and see if you are the selected baker</p>'
+        svg_text: '<p>Wait and see if your idea is selected</p>'
     -
         svg: gold.svg
         svg_text: '<p>If you are, enjoy your reward</p>'
     -
         svg: smile.svg
-        svg_text: '<p>If not this time, no worries, there will be more projects</p>'
-authors_heading: 'What bakers say...'
+        svg_text: '<p>If not this time, no worries, there are more projects to come</p>'
+authors_heading: 'What our bakers say...'
 authors_image: hipster.jpg
 author_texts:
     -
@@ -112,7 +112,7 @@ reward_label: 'Total reward'
 ideas: '49 000'
 ideas_label: 'Creative ideas'
 bakers: '25459'
-bakers_label: Bakers
+bakers_label: 'Active bakers'
 media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,braun_alex_792x1057_bw-orange.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg'
 ---
 
