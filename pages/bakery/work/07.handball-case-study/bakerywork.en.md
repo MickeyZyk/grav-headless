@@ -1,5 +1,5 @@
 ---
-title: 'Handball Assotiation'
+title: 'Handball Association'
 logo_dark: dummy.png
 heading_tag: 'Strategic planning and Consultancy'
 heading_one: 'Refreshed traditional sport of Handball to be motivating and inspirational again'
