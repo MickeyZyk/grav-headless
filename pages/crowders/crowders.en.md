@@ -1,5 +1,4 @@
 ---
-date: '01/01/2019 3:14pm'
 slider:
     -
         title: 'WE CREATE DEMAND'
@@ -13,10 +12,11 @@ slider:
         image: shutterstock_1043564689_small.jpg
     -
         title: 'WE HELP TO RE-INVENT THE CATEGORIES'
-        subheading: 'Here we need a sub-headline'
+        subheading: 'New Ideas, New Products, New Services'
         link: /crowders-about
         image: shutterstock_131312057_Crowders_small.jpg
 media: 'crowders_01.jpg,shutterstock_1043564689_small.jpg,shutterstock_131312057_Crowders_small.jpg'
+date: '01/01/2019 3:14pm'
 title: Crowders
 visible: false
 ---
