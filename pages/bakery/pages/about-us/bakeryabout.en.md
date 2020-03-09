@@ -2,11 +2,11 @@
 title: 'About Us'
 heading_one: 'One way or new way'
 image_one: desk.jpg
-paragraph_one: 'We have liaised top creative and strategic minds with creativity, life experience and levity of thousands people from the crowd. People who don’t sit in the office or development centre, but have a real life… with real problems and needs. We link ideas and insights, trends or strategies. We look for futures. We seek diversity, new perspective and link together what seems incompatible. We listen and get inspired by the crowd. We look into numbers but do not make the average. We regularly check temperature to know what people really feel. We want to know what our future will look like and we want to participate on it. We help individuals as well as organizations to find their place in the future. We fuel the brands with relevant product and experience concepts, offer a fresh perspective on your business and ideate original campaign ideas.'
-heading_two: 'Our creation process from people to people'
-heading_two_alernate: 'Usual closed innovation process'
-show_me_text: 'Usual closed innovation process from office desks to people'
-show_me_two_text: 'Our creation process from people to people'
+paragraph_one: 'We have liaised top creative and strategic minds with real life experience and levity of thousands people from the crowd. People who don’t sit in the office or development centre, but have a real life… with real problems and needs. We link ideas and insights, trends or strategies. We look for futures. We seek diversity, new perspective and link together what seems incompatible. We listen and get inspired by the crowd. We look into numbers but do not make the average. We regularly check temperature to know what people really feel. We want to know what our future will look like and we want to participate on it. We help individuals as well as organizations to find their place in the future. We fuel the brands with relevant product and experience concepts, offer a fresh perspective on your business and ideate original campaign ideas.'
+heading_two: 'Our creation process - from people to people'
+heading_two_alernate: 'Usual closed process'
+show_me_text: 'Usual closed process - from office desks to people'
+show_me_two_text: 'Our creation process - from people to people'
 heading_three: 'What we bake?'
 svg_icons:
     -
@@ -99,7 +99,7 @@ team:
         image: penazka_robert_792x1057_bw-green.jpg
     -
         member: 'Petr Topinka'
-        member_text: "For past 30 years I have worked with the owners and leaders of successful companies across the whole world. Even with politicians and country leaders.\r\nI help them with strategic marketing and communication.\r\nFor many years I was connected with BBDO Worldwide agency network. I worked in BBDO Toronto and lead Prague office which stood behind great creative and business projects in the Czech Republic and CEE region. I found and helped unlock hundreds of talents.\r\nAll this helped me see even more clearly that the crowd can do more that “the above”.\r\nThat’s why Robert Peňažka and I have built Future Bakery platform. For everybody to participate, for us to listen better and for things to work better."
+        member_text: "For past 30 years I've been working with successful companies as well as entrepreneurs. With politicians and country leaders.\r\nFinding right marketing strategies and communication for their goals and businesses.\r\nFor many years I was a part of the BBDO Worldwide agency network working for BBDO Toronto and Prague offices. As CEO for Prague office I found and helped to unlock hundreds of talented people. Together with these talents we became the top creative shop in the Czech Republic and CEE region.\r\nAll this experience helped me to see even more clearly the power of the crowd. How much more we can achieve than the usual...\r\nThat’s why Robert Peňažka and I have built Future Bakery family."
         link_two: petr@futurebakery.com
         image: topinka_peter_792x1057_bw-green.jpg
     -
