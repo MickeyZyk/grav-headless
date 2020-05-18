@@ -1,6 +1,6 @@
 ---
 title: 'About Us '
-heading_one: 'Who we are '
+heading_one: 'One Idea? Or Thousands?'
 subheading_one: 'A space for creative people with amazing ideas.'
 image_one: painter.jpg
 paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where the idea creators – BAKERS get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We wish to give everybody a chance to contribute and believe the more idea makers we have, the further we get.'
