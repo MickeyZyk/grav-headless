@@ -1,6 +1,6 @@
 ---
 title: 'About Us'
-heading_one: 'All About us'
+heading_one: 'One Voice? Or Thousands?'
 image_one: cone.jpg
 paragraph_one: 'We are a team of thousands individuals strong in opinion and power to change. We can address important topics / things in a way we are heard without having to be seen. Future Crowders are a part of Future Bakery family - a strategic and innovation group of thousand individuals, lead by experienced team of strategic, creative and innovative minds. We work according to a validated methodology how to initiate change and create demand.'
 link_one: /crowderscontact
