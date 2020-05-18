@@ -9,7 +9,7 @@ link_one_text: 'JOIN US'
 link_one_divider: 'or find out how to'
 link_one_brief: /bakers-for-clients
 link_one_brief_text: 'BRIEF US'
-subheading_two: 'We are a group of enthusiasts and passionate thinkers'
+subheading_two: 'A community of thousands who bring future value.'
 image_two: hairguy.jpg
 paragraph_two: 'We believe that a great idea can pop up anywhere: in a bar, during a wonderfully peaceful weekend, while running, before going to bed, while chatting with your loved one, from a student, retiree or stay-at-home mom or dad.'
 link_second: /bakerslogin
