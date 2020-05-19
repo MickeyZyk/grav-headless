@@ -5,11 +5,11 @@ image_one: desk.jpg
 paragraph_one: 'We have liaised top creative and strategic minds with real life experience and levity of thousands people from the crowd. People who don’t sit in the office or development centre, but have a real life… with real problems and needs. We link ideas and insights, trends or strategies. We look for futures. We seek diversity, new perspective and link together what seems incompatible. We listen and get inspired by the crowd. We look into numbers but do not make the average. We regularly check temperature to know what people really feel. We want to know what our future will look like and we want to participate on it. We help individuals as well as organizations to find their place in the future. We fuel the brands with relevant product and experience concepts, offer a fresh perspective on your business and ideate original campaign ideas.'
 CTA_heading: 'See what this creative crowd can do'
 menu_bakery_heading: 'Future Bakery'
-menu_bakery_text: 'Fresh ideas and original content by and for your future consumers.'
+menu_bakery_text: "Get your spot in the future. \r\nGetting future thinking, innovations and a strategy. From experts working with thousands of your future customers."
 menu_bakers_heading: 'Future Bakers'
-menu_bakers_text: 'Unleash your creativity and ideas. Join thousands of other creative souls who are eager to share ideas.'
+menu_bakers_text: "Get double rewarded for your thinking. \r\nGetting paid for your ideas and having a rewarding time. Join a community of thousands who bring future value."
 menu_crowders_heading: 'Future Crowders'
-menu_crowders_text: 'We create demand through seeking and developing cross-social topics. Communities building.'''
+menu_crowders_text: "Get your say in the future.\r\nGetting your future customers to contribute. Wanting to see their voice in your future to become a reality."
 heading_two: 'Our creation process - from people to people'
 heading_two_alernate: 'Usual closed process'
 show_me_text: 'Usual closed process - from office desks to people'
