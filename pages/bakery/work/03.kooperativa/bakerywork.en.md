@@ -3,8 +3,8 @@ title: Kooperativa
 logo_dark: kooperativa.png
 heading_tag: Ideation
 heading_one: 'How to make people think OF SERIOUS TOPICS?'
-toggle: true
-one_way: 'Bet on the fear.'
+toggle: '1'
+one_way: 'Bet on fear.'
 new_way: 'How about using humor where you least expect it?'
 big_image: KOOP.jpg
 video: 'null'
