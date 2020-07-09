@@ -17,7 +17,7 @@ slider:
         image: shutterstock_155344466_small.jpg
     -
         title: 'INNOVATIONS AND IDEAS FOR REAL LIFE'
-        subheading: 'Not the presentation decks'
+        subheading: 'Not presentation decks'
         link: /bakery-about
         image: shutterstock_1159947316_small.jpg
 media: 'image.jpg,shutterstock_155344466_small.jpg,shutterstock_771033703_small.jpg,shutterstock_1159947316_small.jpg'
