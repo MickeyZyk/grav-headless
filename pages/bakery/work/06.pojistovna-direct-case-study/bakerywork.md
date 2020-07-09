@@ -2,7 +2,7 @@
 title: 'Pojištovna Direct Case Study'
 logo_dark: dummy.png
 heading_tag: 'Strategic planning and Consultancy'
-heading_one: 'Helped Direct Insurance to see the future role of insurance business'
+heading_one: 'Helped Direct Insurance see the future role of insurance business'
 toggle: '-1'
 big_image: direct.jpg
 video: 'null'
