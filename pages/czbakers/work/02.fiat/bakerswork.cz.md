@@ -3,7 +3,7 @@ title: Fiat
 logo_dark: dark_logo_fiat.png
 heading_tag: Ideation
 heading_one: 'How to launch a new crossover blending design & practicality to women in overcrowded market?'
-one_way_title: 'one way'
+one_way_title: 'old way'
 one_way: 'Use TV and mass marketing to get the message across.'
 new_way_title: 'new way'
 new_way: 'How about giving your future customers a chance to come up with their own view of practicality?'
