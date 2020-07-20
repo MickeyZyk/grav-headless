@@ -4,7 +4,7 @@ logo_dark: kooperativa.png
 heading_tag: Ideation
 heading_one: 'How to make people think OF SERIOUS TOPICS?'
 toggle: '1'
-one_way_title: 'one way'
+one_way_title: 'old way'
 one_way: 'Bet on fear.'
 new_way_title: 'new way'
 new_way: 'How about using humor where you least expect it?'
