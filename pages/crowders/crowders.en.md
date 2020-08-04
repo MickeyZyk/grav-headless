@@ -11,7 +11,7 @@ slider:
         link: /crowders-about
         image: shutterstock_1043564689_small.jpg
     -
-        title: 'WE HELP TO RE-INVENT THE CATEGORIES'
+        title: 'WE HELP REINVENT CATEGORIES'
         subheading: 'New Ideas, New Products, New Services'
         link: /crowders-about
         image: shutterstock_131312057_Crowders_small.jpg
