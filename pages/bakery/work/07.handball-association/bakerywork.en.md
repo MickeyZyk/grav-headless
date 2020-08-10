@@ -2,7 +2,7 @@
 title: 'Handball Association'
 logo_dark: dummy.png
 heading_tag: 'Strategic planning and Consultancy'
-heading_one: 'Refreshed traditional sport of Handball to be motivating and inspirational again'
+heading_one: 'Refreshed traditional sport of handball to be motivating and inspirational again'
 toggle: '1'
 one_way_title: 'one way'
 new_way_title: 'new way'
