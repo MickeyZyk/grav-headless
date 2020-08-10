@@ -4,7 +4,7 @@ logo_dark: DAS.png
 heading_tag: 'Creative Strategy'
 heading_one: 'How do you explain and sell legal insurance to people who are afraid of lawyers and hate insurance companies?'
 toggle: '1'
-one_way_title: 'one way'
+one_way_title: 'old way'
 one_way: 'Tell the consumers about unique benefits of your product.'
 new_way_title: 'new way'
 new_way: 'How about instead of selling insurance “help the good"?'
