@@ -5,7 +5,7 @@ image_one: cone.jpg
 paragraph_one: 'We are a team of thousands of individuals with strong opinions and power to change. We can address important topics by being heard but not seen. Future Crowders are a part of Future Bakery family - a strategic and innovation group of thousands individuals, lead by experienced team of strategic, creative and innovative minds. We work based on validated methodologies aimed at initiating change and creating demand.'
 link_one: /crowderscontact
 link_one_text: 'START A PROJECT WITH US'
-check_heading: 'See what the crowd field of professionals can do...'
+check_heading: 'See what the crowd of professionals can do...'
 heading_two: 'Our methodology rests on four key pilars'
 subheading_two: 'There are 4 key phases to demonstrate our method to create demand.'
 svg_icons:
