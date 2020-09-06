@@ -1,5 +1,5 @@
 ---
-heading: 'Let''s create with us - we reward the best.'
+heading: 'Let''s create together - we reward the best.'
 subheading: 'There are thousands of us who''ve done it. But there are still more people who need your ideas.'
 image: planekid.jpg
 link_one_text: LOGIN
