@@ -1,7 +1,7 @@
 ---
 title: 'O nás'
 heading_one: 'Kdo jsme'
-subheading_one: 'Jsme prostor, který dává možnost probudit kreativitu a nápady      v každém z nás.'
+subheading_one: 'Jsme prostor, který dává možnost probudit kreativitu a nápady          v každém z nás.'
 image_one: painter.jpg
 paragraph_one: "Místo, kde se potkávají ti, co nápady hledají, s těmi, co je mají. Ti, co je hledají, dostanou na výběr z mnoha skvělých nápadů. Ti, co je mají, dostanou odměnu, když je jejich nápad vybrán.\r\nJsme nekonečná skupina tvůrčích a vynalézavých lidí.\r\nMyslíme, že je důležité vytvářet prostor pro tvorbu a nápady. Věříme, že je fér dát možnost každému, kdo chce tvořit. Proto je nás tolik a snažíme se růst každým dnem."
 link_one: /czbakerslogin
