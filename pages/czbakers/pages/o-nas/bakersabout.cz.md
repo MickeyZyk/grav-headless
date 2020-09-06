@@ -41,7 +41,7 @@ team_heading: 'Seznamte se s týmem'
 team:
     -
         member: 'Robert Peňažka'
-        member_text: "Pětadvacet jsem ve světě komunikace a kreativity. Pořád začínám, abych mohl končit a končím, abych mohl pořád začínat.\r\nPo 9 letech jsem skončil jako šéf Leo Burnett Praha, založil agenturu Kaspen, abych po 7 letech zase odešel a\_založil studio Yinachi. Hledám vášnivé klienty, propojuji světy komerce a\_umění. Stojím za projektem Kmeny, za knihami Neboj a Velký Bobek. Vydávám časopis Magnus. Jsem strejdou Kašpárka v\_rohlíku a\_festivalu Kefír. Jsem spoluzakladatelem \"Rodiče vítáni\" a\_s\_Petrem Topinkou jsme vybudovali rodinu Future Bakery."
+        member_text: "Pětadvacet let jsem ve světě komunikace a kreativity. Pořád začínám, abych mohl končit a končím, abych mohl pořád začínat.\r\nPo 9 letech jsem skončil jako šéf Leo Burnett Praha, založil agenturu Kaspen, abych po 7 letech zase odešel a\_založil studio Yinachi. Hledám vášnivé klienty, propojuji světy komerce a\_umění. Stojím za projektem Kmeny, za knihami Neboj a Velký Bobek. Vydávám časopis Magnus. Jsem strejdou Kašpárka v\_rohlíku a\_festivalu Kefír. Jsem spoluzakladatelem \"Rodiče vítáni\" a\_s\_Petrem Topinkou jsme vybudovali rodinu Future Bakery."
         link_two: robert@futurebakery.com
         image: penazka_robert_792x1057_bw-orange.jpg
     -
