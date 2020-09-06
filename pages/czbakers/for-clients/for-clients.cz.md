@@ -4,15 +4,15 @@ paragraph_one: 'Jen nápady nestačí a potřebujete píchnout i s analýzou, st
 image_one: rocket.jpg
 link_one_text: 'POŠLETE ZADÁNÍ'
 link_two_text: ZAVOLEJTE
-heading_two: 'Looking for ideas or a solution to a problem? '
-step_one: 'Fill out our Client Contact Form'
-step_two: 'Make a detailed description of the problem or the task in hand (we can help you with this)'
-step_three: 'Set up the reward'
-step_four: 'Check out all the ideas from the contributors'
-step_five: 'Pick the best one'
-step_six: 'Become the owner of one'
-form_button: 'FILL OUT THE FORM'
-form_button_two: 'CALL US'
+heading_two: 'Hledáte nápady nebo komplexnější řešení pro vaše projekty? '
+step_one: 'Vyplňte formulář pro klienty.'
+step_two: 'Popište, s čím Vám můžeme pomoci.'
+step_three: 'Určete odměnu za vybraný nápad.'
+step_four: 'Probírejte se nápady od tvůrců.'
+step_five: 'Vyberte pro Vás ten nejlepší nápad.'
+step_six: 'Staňte se vlastníkem nápadu.'
+form_button: 'Vyplnit formulář'
+form_button_two: 'Zavolejte nám'
 form_close_button: CLOSE
 form_label_one: 'Jméno a přijmení'
 form_label_two: Email
