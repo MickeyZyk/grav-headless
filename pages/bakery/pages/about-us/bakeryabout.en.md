@@ -3,7 +3,7 @@ title: 'About Us'
 heading_one: 'One way? Or Thousands?'
 image_one: desk.jpg
 paragraph_one: 'We have connected top creative, strategic and analytical minds with real life experience and levity of thousands people from our crowds. People who don’t sit in the office or development centre, but have a real life… with real problems and needs. We link ideas and insights, trends or strategies. We look for future trends. We seek diversity, new perspective and link together what seems incompatible. We listen and get inspired by the crowd. We look at numbers but don''t average them out. We regularly check temperature to know what people really feel. We want to know what our future will look like and we want to participate in it. We help individuals as well as organizations find their place in the future. We fuel brands with relevant product and experience concepts, offer a fresh perspective on your business and ideate original campaign ideas.'
-CTA_heading: 'See what this creative crowd can do.'
+CTA_heading: 'See what this creative crowd can do...'
 menu_bakery_heading: 'Future Bakery'
 menu_bakery_text: "Get your spot in the future. \r\nProviding future thinking, innovations and a strategy. From experts already working with thousands of your future customers."
 menu_bakers_heading: 'Future Bakers'
