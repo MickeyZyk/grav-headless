@@ -1,5 +1,5 @@
 ---
-title: 'Pojištovna Direct Case Study'
+title: 'Direct Case Study'
 logo_dark: dummy.png
 heading_tag: 'Strategické plánování a konzultace'
 heading_one: 'Pojišťovně Direct jsme pomohli zmapovat roli pojištění v budoucnosti.'
