@@ -1,5 +1,5 @@
 ---
-title: 'Pojištovna Direct Case Study'
+title: 'Direct Case Study'
 logo_dark: dummy.png
 heading_tag: 'Strategic planning and Consultancy'
 heading_one: 'Helped Direct Insurance see the future role of insurance business'
