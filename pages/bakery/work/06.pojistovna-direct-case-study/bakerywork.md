@@ -10,6 +10,6 @@ big_image: direct.jpg
 video: 'null'
 logo_light: dummy.png
 heading_two: 'Pojištovna Direct Case Study'
-media: 'direct.jpg,dummy.png'
+media: 'dummy.png,direct.jpg'
 ---
 
