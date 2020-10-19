@@ -9,7 +9,7 @@ new_way_title: 'new way'
 big_image: direct.jpg
 video: 'null'
 logo_light: dummy.png
-heading_two: 'Pojištovna Direct Case Study'
+heading_two: 'Direct Case Study'
 media: 'dummy.png,direct.jpg'
 ---
 
