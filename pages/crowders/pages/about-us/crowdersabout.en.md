@@ -7,6 +7,7 @@ link_one: /crowderscontact
 link_one_text: 'START A PROJECT WITH US'
 check_heading: 'See what the crowd of professionals can do...'
 heading_two: 'Our methodology rests on four key pilars'
+subheading_two: .
 svg_icons:
     -
         svg: crowders_arrowz.svg
