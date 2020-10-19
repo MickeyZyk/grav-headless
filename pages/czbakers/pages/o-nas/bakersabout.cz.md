@@ -3,7 +3,7 @@ title: 'O nás'
 heading_one: 'Kdo jsme'
 subheading_one: 'Jsme prostor, který dává možnost probudit kreativitu a nápady          v každém z nás.'
 image_one: painter.jpg
-paragraph_one: "Místo, kde se potkávají ti, co nápady hledají, s těmi, co je mají. Ti, co je hledají, dostanou na výběr z mnoha skvělých nápadů. Ti, co je mají, dostanou odměnu, když je jejich nápad vybrán.\r\nJsme nekonečná skupina tvůrčích a vynalézavých lidí.\r\nMyslíme, že je důležité vytvářet prostor pro tvorbu a nápady. Věříme, že je fér dát možnost každému, kdo chce tvořit. Proto je nás tolik a snažíme se růst každým dnem."
+paragraph_one: 'Místo, kde se potkávají ti, co nápady hledají, s těmi, co je mají. Ti, co je hledají, dostanou na výběr z mnoha skvělých nápadů. Ti, co je mají, dostanou odměnu, když je jejich nápad vybrán. Jsme nekonečná skupina tvůrčích a vynalézavých lidí. Myslíme, že je důležité vytvářet prostor pro tvorbu a nápady. Věříme, že je fér dát možnost každému, kdo chce tvořit. Proto je nás tolik a snažíme se růst každým dnem.'
 link_one: /czbakerslogin
 link_one_text: 'PŘIDEJTE SE K NÁM'
 link_one_divider: nebo
@@ -11,7 +11,7 @@ link_one_brief: /czbakers-for-clients
 link_one_brief_text: 'POŠLETE ZADÁNÍ'
 subheading_two: 'Jsme skupina neúnavných nadšenců.'
 image_two: hairguy.jpg
-paragraph_two: "Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv.\r\nZ knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ..."
+paragraph_two: 'Věříme, že zajímavý nápad může přijít odkudkoliv a kohokoliv. Z knihy, z hospody, z povídání si s manželkou, ze super stráveného víkendu, z tramvaje, v kuchyni, před spaním, při běhání, od vědce i od studenta, od profíka i od amatéra, od mladších i od starších, od ...'
 link_second: /czbakerslogin
 link_second_text: 'PŘIDEJTE SE K NÁM'
 link_second_divider: nebo
@@ -41,12 +41,12 @@ team_heading: 'Seznamte se s týmem'
 team:
     -
         member: 'Robert Peňažka'
-        member_text: "Pětadvacet let jsem ve světě komunikace a kreativity. Pořád začínám, abych mohl končit a končím, abych mohl pořád začínat.\r\nPo 9 letech jsem skončil jako šéf Leo Burnett Praha, založil agenturu Kaspen, abych po 7 letech zase odešel a\_založil studio Yinachi. Hledám vášnivé klienty, propojuji světy komerce a\_umění. Stojím za projektem Kmeny, za knihami Neboj a Velký Bobek. Vydávám časopis Magnus. Jsem strejdou Kašpárka v\_rohlíku a\_festivalu Kefír. Jsem spoluzakladatelem \"Rodiče vítáni\" a\_s\_Petrem Topinkou jsme vybudovali rodinu Future Bakery."
+        member_text: "Pětadvacet let jsem ve světě komunikace a kreativity. Pořád začínám, abych mohl končit a končím, abych mohl pořád začínat. Po 9 letech jsem skončil jako šéf Leo Burnett Praha, založil agenturu Kaspen, abych po 7 letech zase odešel a\_založil studio Yinachi. Hledám vášnivé klienty, propojuji světy komerce a\_umění. Stojím za projektem Kmeny, za knihami Neboj a Velký Bobek. Vydávám časopis Magnus. Jsem strejdou Kašpárka v\_rohlíku a\_festivalu Kefír. Jsem spoluzakladatelem \"Rodiče vítáni\" a\_s\_Petrem Topinkou jsme vybudovali rodinu Future Bakery."
         link_two: robert@futurebakery.com
         image: penazka_robert_792x1057_bw-orange.jpg
     -
         member: 'Petr Topinka'
-        member_text: "Posledních třicel let jsem pracoval s majiteli a šéfy úspěšných firem po celém světě. Dokonce s politiky a šéfy států.\r\nPomáhám jim se strategickým marketingem a komunikací.\r\nDlouhá léta jsem byl spojen s agenturní sítí BBDO Worldwide. Pracoval  jsem v BBDO Toronto a vedl jsem pražskou pobočku, která stálla za výzmnamnými projekty kreativně i byznysově u nás i v regionu CEE. Našel jsem a pomohl rozvinout stovky talentů.\r\nTo všechno mi pohohlo ještě líp vidět, že dav dokáže víc než ti “nahoře”. Proto jsme s Robertem Peňažkou postavili platformu Future Bakery. Aby se každý mohl podílet, abychom líp poslouchali a aby věci líp fungovaly."
+        member_text: 'Posledních třicel let jsem pracoval s majiteli a šéfy úspěšných firem po celém světě. Dokonce s politiky a šéfy států. Pomáhám jim se strategickým marketingem a komunikací. Dlouhá léta jsem byl spojen s agenturní sítí BBDO Worldwide. Pracoval  jsem v BBDO Toronto a vedl jsem pražskou pobočku, která stálla za výzmnamnými projekty kreativně i byznysově u nás i v regionu CEE. Našel jsem a pomohl rozvinout stovky talentů. To všechno mi pomohlo ještě líp vidět, že dav dokáže víc než ti “nahoře”. Proto jsme s Robertem Peňažkou postavili platformu Future Bakery. Aby se každý mohl podílet, abychom líp poslouchali a aby věci líp fungovaly.'
         link_two: petr@futurebakery.cz
         image: topinka_peter_792x1057_bw-orange.jpg
     -
@@ -54,7 +54,7 @@ team:
         image: braun_alex_792x1057_bw-orange.jpg
     -
         member: 'Alena Pelcova '
-        member_text: "Představte si, že máte rodinu, kde jsou tisíce příbuzných.\r\nTak přesně o takovou rodinu se Alena stará. Rodinu Future Bakery, kde je asi pětadvacettisíc lidí “z davu”. Lidí, kteří mají super energii a nápady.  \r\nMoc dobře víme, že nikdo nejsme tak chytří jako my všichni dohromady. I to, že kreativní jsme všichni. Stačí dát impuls a už to jede. Tenhle svět je plný kreativity, svěžích a pro někoho divních nápadů a pohledů na svět. Naše práce je s tím umět pracovat a dát těmu všemu život."
+        member_text: 'Představte si, že máte rodinu, kde jsou tisíce příbuzných. Tak přesně o takovou rodinu se Alena stará. Rodinu Future Bakery, kde je asi pětadvacettisíc lidí “z davu”. Lidí, kteří mají super energii a nápady. Moc dobře víme, že nikdo nejsme tak chytří jako my všichni dohromady. I to, že kreativní jsme všichni. Stačí dát impuls a už to jede. Tenhle svět je plný kreativity, svěžích a pro někoho divních nápadů a pohledů na svět. Naše práce je s tím umět pracovat a dát těmu všemu život.'
         link_two: pelcova.alena@futurebakery.com
         image: bw_pelcova.jpg
 bakers_heading: Tvůrci
