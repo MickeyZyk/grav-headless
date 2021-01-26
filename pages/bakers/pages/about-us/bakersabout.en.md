@@ -54,6 +54,11 @@ team:
         member_text: '"How do we feel?" Alena has been empowering people throughout her business career by making them feel as a part of a big family, on a mission, with a purpose. She is a care taker, a we first-you second-me last team player, a selfless motivator, a pusher and puller, based on what people need or what makes them stronger in their roles. Turned corporate cultures into belonging emplying her natural gift and talent of a family creator, a herdsgirl, a flocker, a crowd carer, a swarm guard, caring how people feel, what they need, how can she help. A median mix of European North and South, whatever job position in business she started, she has always ended organising - the North talent - people - the South talent. She formed them into teams and further even into one family, with a purpose and a sense of belonging. She holds several positions, all having to do with running the family. A pretty big family with over tens of thousands of siblings, relatives, connected family members. All having to feel as a part. All having a different role, personality, talent and gift. All contributing differently, at different times, at different tasks.'
         link_two: pelcova.alena@futurebakery.com
         image: ALENA-orange.jpg
+    -
+        member: 'Leon. Creates it.'
+        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \r\nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager. \r\n"
+        link_two: leon@futurebakery.cz
+        image: Leon.jpg
 bakers_heading: 'Have an Idea for the future?'
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
@@ -113,6 +118,6 @@ ideas: '49 000'
 ideas_label: 'Creative ideas'
 bakers: '25459'
 bakers_label: 'Active bakers'
-media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,braun_alex_792x1057_bw-orange.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg'
+media: 'penazka_robert_8696-2_792x1057_bw.jpg,gold.svg,topinka_peter_792x1057_bw-orange.jpg,register.svg,clock.svg,penazka_robert_8696-2_792x1057.jpg,hairguy.jpg,braun_alex_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057.jpg,painter.jpg,smile.svg,kid.jpg,bw_pelcova.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,envelope.svg,hipster.jpg,location.svg,pelcova.jpg,Leon.jpg'
 ---
 
