@@ -55,8 +55,13 @@ team:
     -
         member: 'Alena Pelcova '
         member_text: 'Představte si, že máte rodinu, kde jsou tisíce příbuzných. Tak přesně o takovou rodinu se Alena stará. Rodinu Future Bakery, kde je asi pětadvacettisíc lidí “z davu”. Lidí, kteří mají super energii a nápady. Moc dobře víme, že nikdo nejsme tak chytří jako my všichni dohromady. I to, že kreativní jsme všichni. Stačí dát impuls a už to jede. Tenhle svět je plný kreativity, svěžích a pro někoho divních nápadů a pohledů na svět. Naše práce je s tím umět pracovat a dát těmu všemu život.'
-        link_two: pelcova.alena@futurebakery.com
+        link_two: alena@futurebakery.com
         image: bw_pelcova.jpg
+    -
+        member: 'Leon. Vytvoří to.'
+        member_text: "Máte problem? V historii lidstva bylo vždy řešení problémů jedním z největších zdrojů kreativity. A čím větší byl ten problém, tím větší byla i kreativita.\r\nLeon strávil posledních třicet let hledáním odpovědí na velké i malé obchodní problémy. Odpovědi, které kombinují logiku strategie s kouzlem kreativního myšlení. Odpovědi, které pomáhají značkám stát se součástí našeho života, najít si místo v každodenních rituálech a populární kultuře.\r\nBěhem své dlouhé kariéry v mnoha domácích i mezinárodních značkách nacházel vždy stejný klíč k úspěchu. Pevná víra v silnou myšlenku, hluboce zakořeněná v lidské pravdě. Myšlenka tak silná, že je schopna změnit naše chování, mít jakýkoliv tvar a formu a vydrží déle, než váš průměrný marketingový manažer."
+        link_two: leon@futurebakery.cz
+        image: Leon.jpg
 bakers_heading: Tvůrci
 image_three: kid.jpg
 bakers_paragraph_one: 'Dejte volnost nápadům a kreativitě v sobě. Máme pro Vás na rozlousknutí pár oříšků od zajímavých firem a značek.'
@@ -119,6 +124,6 @@ ideas: '49 000'
 ideas_label: 'Kreativních nápadů'
 bakers: '25452'
 bakers_label: Tvůrců
-media: 'penazka_robert_8696-2_792x1057.jpg,clock.svg,bw_pelcova.jpg,gold.svg,envelope.svg,hipster.jpg,location.svg,hairguy.jpg,penazka_robert_8696-2_792x1057_bw.jpg,painter.jpg,pelcova.jpg,topinka_peter_8744-2_792x1057.jpg,register.svg,topinka_peter_8744-2_792x1057_bw.jpg,smile.svg,kid.jpg,topinka_peter_792x1057_bw-orange.jpg,penazka_robert_792x1057_bw-orange.jpg,braun_alex_792x1057_bw-orange.jpg'
+media: 'penazka_robert_8696-2_792x1057_bw.jpg,gold.svg,topinka_peter_792x1057_bw-orange.jpg,register.svg,clock.svg,penazka_robert_8696-2_792x1057.jpg,hairguy.jpg,braun_alex_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057.jpg,painter.jpg,smile.svg,kid.jpg,bw_pelcova.jpg,penazka_robert_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,envelope.svg,hipster.jpg,location.svg,pelcova.jpg,Leon.jpg'
 ---
 
