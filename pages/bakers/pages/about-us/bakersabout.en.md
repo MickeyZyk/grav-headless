@@ -56,9 +56,9 @@ team:
         image: ALENA-orange.jpg
     -
         member: 'Leon. Creates it.'
-        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \r\nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager. \r\n"
+        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \r\nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager."
         link_two: leon@futurebakery.cz
-        image: Leon.jpg
+        image: 'Leon 3.jpg'
 bakers_heading: 'Have an Idea for the future?'
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
@@ -118,6 +118,6 @@ ideas: '49 000'
 ideas_label: 'Creative ideas'
 bakers: '25459'
 bakers_label: 'Active bakers'
-media: 'penazka_robert_8696-2_792x1057_bw.jpg,gold.svg,topinka_peter_792x1057_bw-orange.jpg,register.svg,clock.svg,penazka_robert_8696-2_792x1057.jpg,hairguy.jpg,braun_alex_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057.jpg,painter.jpg,smile.svg,kid.jpg,bw_pelcova.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,envelope.svg,hipster.jpg,location.svg,pelcova.jpg,Leon.jpg'
+media: 'penazka_robert_8696-2_792x1057_bw.jpg,gold.svg,topinka_peter_792x1057_bw-orange.jpg,register.svg,clock.svg,penazka_robert_8696-2_792x1057.jpg,hairguy.jpg,braun_alex_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057.jpg,painter.jpg,smile.svg,kid.jpg,bw_pelcova.jpg,penazka_robert_792x1057_bw-orange.jpg,ALENA-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,envelope.svg,hipster.jpg,location.svg,pelcova.jpg,Leon 3.jpg'
 ---
 
