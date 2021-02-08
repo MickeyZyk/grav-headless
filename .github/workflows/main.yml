@@ -1,4 +1,5 @@
-- name: WebhugAction
-  uses: phramz/webhug-action@v1
+- name: Webhook
+  uses: joelwmale/webhook-action@master
   with:
-    endpoint: "https://future.deployhq.com/deploy/future/L-6LsAm5oRESI2IZL07I-0imxfqk6wzA"
+    url: "https://future.deployhq.com/deploy/future/L-6LsAm5oRESI2IZL07I-0imxfqk6wzA"
+    body: '"payload": {"new_ref": "latest","branch":"master","email":"dalibor.ilic.dado@gmail.com","clone_url":"git@github.com:DaliborIlic/future-bakery.git"}'
