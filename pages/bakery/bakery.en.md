@@ -11,7 +11,7 @@ slider:
         link: /bakery-about
         image: shutterstock_771033703_small.jpg
     -
-        title: 'FRESH IDEAS'
+        title: 'FRESH IDEAS!'
         subheading: 'Original content by and for your future consumers.'
         link: /bakery-about
         image: shutterstock_155344466_small.jpg
