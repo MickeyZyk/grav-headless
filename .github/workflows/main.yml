@@ -1,5 +1,8 @@
-- name: Webhook POST Action
-  uses: muinmomin/webhook-action@v1.0.0
+- name: Webhug Action 🤗
+  # You may pin to the exact commit or the version.
+  # uses: phramz/webhug-action@d0b490fd9787776d5a91b2e31293bd9be204e293
+  uses: phramz/webhug-action@v1
   with:
-    url: "https://future.deployhq.com/deploy/future/L-6LsAm5oRESI2IZL07I-0imxfqk6wzA"
-    data: {'new_ref': 'latest','branch':'master','email':'dalibor.ilic.dado@gmail.com','clone_url':'git@github.com:DaliborIlic/future-bakery.git'}
+    # URL to the Webhug endpoint
+    endpoint: "https://future.deployhq.com/deploy/future/L-6LsAm5oRESI2IZL07I-0imxfqk6wzA"
+    payload: {'new_ref': 'latest','branch':'master','email':'dalibor.ilic.dado@gmail.com','clone_url':'git@github.com:DaliborIlic/future-bakery.git'}
