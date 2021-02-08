@@ -9,4 +9,4 @@ jobs:
     - uses: muinmomin/webhook-action@v1.0.0
       with:
         url: https://future.deployhq.com/deploy/future/L-6LsAm5oRESI2IZL07I-0imxfqk6wzA
-        data: '{"payload":{"new_ref":"d591e0bca37634ef2e3da7f2a0db3477b8ed7919","branch":"master","email":"dalibor.ilic.dado@gmail.com","clone_url":"git@github.com:DaliborIlic/future-bakery.git"}}'
+        data: '{"payload":{"new_ref":"latest","branch":"master","email":"dalibor.ilic.dado@gmail.com","clone_url":"git@github.com:DaliborIlic/future-bakery.git"}}'
