@@ -1,5 +1,5 @@
 ---
-title: 'Czech Inn Case Study'
+title: 'Czech Inn Hotels Case Study'
 logo_dark: dummy.png
 heading_tag: Inovace
 heading_one: 'Společně s Czech Inn Hotels jsme vytvořili nový koncept ubytování.'
