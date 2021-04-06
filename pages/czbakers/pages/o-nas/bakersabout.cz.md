@@ -124,6 +124,6 @@ ideas: '49 000'
 ideas_label: 'Kreativních nápadů'
 bakers: '25452'
 bakers_label: Tvůrců
-media: 'penazka_robert_8696-2_792x1057_bw.jpg,gold.svg,topinka_peter_792x1057_bw-orange.jpg,register.svg,clock.svg,penazka_robert_8696-2_792x1057.jpg,hairguy.jpg,braun_alex_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057.jpg,painter.jpg,smile.svg,kid.jpg,bw_pelcova.jpg,penazka_robert_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,envelope.svg,Leon 3.jpg,hipster.jpg,location.svg,pelcova.jpg,Leon_FUBA ptak.jpg'
+media: 'penazka_robert_8696-2_792x1057_bw.jpg,gold.svg,topinka_peter_792x1057_bw-orange.jpg,register.svg,clock.svg,penazka_robert_8696-2_792x1057.jpg,hairguy.jpg,braun_alex_792x1057_bw-orange.jpg,Leon_FUBA ptak.jpg,topinka_peter_8744-2_792x1057.jpg,painter.jpg,smile.svg,kid.jpg,bw_pelcova.jpg,penazka_robert_792x1057_bw-orange.jpg,topinka_peter_8744-2_792x1057_bw.jpg,envelope.svg,Leon 3.jpg,hipster.jpg,location.svg,pelcova.jpg,Leon_FUBA ptak.jpg'
 ---
 
