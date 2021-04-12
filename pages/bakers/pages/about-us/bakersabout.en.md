@@ -58,7 +58,7 @@ team:
         member: 'Leon. Creates it.'
         member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \r\nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager."
         link_two: leon@futurebakery.cz
-        image: 'Leon 3.jpg'
+        image: 'Leon_FUBA ptak.jpg'
 bakers_heading: 'Have an Idea for the future?'
 image_three: kid.jpg
 bakers_paragraph_one: 'Let your creativity shine and your ideas out. We will have an abundance of great projects, that will inspire you. Help us solve them!! Have fun with it!'
