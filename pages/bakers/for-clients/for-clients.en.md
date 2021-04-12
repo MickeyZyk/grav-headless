@@ -14,18 +14,18 @@ step_six: 'Become the owner of one'
 form_button: 'FILL OUT THE FORM'
 form_button_two: 'CALL US'
 form_close_button: CLOSE
-form_label_one: 'Jméno a přijmení'
+form_label_one: 'Name and surname'
 form_label_two: Email
-form_label_three: Telefon
-form_label_four: Firma
-form_label_five: IČO
-form_label_six: 'Fakturační adresa'
-form_label_seven: 'Text objednávky'
-form_label_eight: 'Souhlas s GDPR..'
-form_label_nine: 'Souhlasim s podminkami FutureBakery'
-form_send_button: ODESLAT
-form_bottom_link_one: 'VŠEOBECNÉ OBCHODNÍ PODMÍNKY PRO ZADAVATELE'
-form_bottom_link_two: 'VŠEOBECNÉ OBCHODNÍ PODMÍNKY PRO AUTORY'
+form_label_three: Phone
+form_label_four: Company
+form_label_five: 'ID Number'
+form_label_six: Address
+form_label_seven: 'Message text'
+form_label_eight: 'I agree with GDPR Terms and Conditions'
+form_label_nine: 'I agree with FutureBakery Terms and Conditions'
+form_send_button: SEND
+form_bottom_link_one: 'GENERAL TERMS AND CONDITIONS FOR CONTRACTING AUTHORITIES'
+form_bottom_link_two: 'GENERAL TERMS AND CONDITIONS FOR AUTHORS'
 media: rocket.jpg
 title: 'For Clients'
 ---
