@@ -6,10 +6,10 @@ heading_one: 'Refreshed traditional sport of handball to be motivating and inspi
 toggle: '1'
 one_way_title: 'one way'
 new_way_title: 'new way'
-big_image: logo.jpg
+big_image: handball.jpg
 video: 'null'
 logo_light: dummy.png
 heading_two: 'Handball Case Study'
-media: 'dummy.png,DSC_2997.JPG'
+media: 'dummy.png,handball.jpg,unnamed.jpg'
 ---
 
