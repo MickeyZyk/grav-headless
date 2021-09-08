@@ -100,11 +100,6 @@ logos:
         logotype: mccann.png
 team:
     -
-        member: 'Robert. Imagines it.'
-        member_text: '"What if?" Robert is a seasoned change strategist and business innovator, finding roads to new value creation. Fearlessly dreaming ahead of time, questioning today, exploring the potential, drawing maps of opportunities, inspiring and taking businesses to more profitable futures. An untiring business starter, owner and communicator, for over thirty years he safe guided clients and companies in launching over 300+ new brands, products, change projects and innovations in Europe. At a peak success rate. In areas as varied as fintechs, virtual reality, race car design, edutainment, ecommerce, community coops, and ehealth, to transforming retail, FMCG, banks and art galleries. He''s been helping 20th century businesses get into the 21st centrury and growing 21st century ones by bringing them old school tangibles and presence. A multicultured global homeless based on planet Earth, he motivates companies to overcome the fear of the unknown. Guiding them to the future and back, bringing home new profits, customer value and better business performance.'
-        link_two: robert@futurebakery.com
-        image: penazka_robert_792x1057_bw-green.jpg
-    -
         member: 'Petr. Sees it.'
         member_text: '"How to?" Petr is a no nonsense business executive and practitioner, always on the lookout for growth. Persistently focusing on the how to, the way to achieve growth, expanding, capturing new markets and moving brands to the next level. For over thirty years, 45+ categories, from local businesses to major multinationals, from capturing new markets for chewing gums to creating political superstars. The combination of holding executive positions in Europe and North America, combined with his lifelong love of Asia, brings clients access to a unique blend of globality, bushcraft practicality, academic theory and university of life acumen. With a knack for human behaviour combined with his skill of seeing business potential, his area of expertise is new markets formation. He notices early shifts in consumer attitude patterns, sensing changing needs, setting apart fads and robust trends, and observes the creation of societal, cultural themes, topics and meanings.'
         link_two: petr@futurebakery.com
