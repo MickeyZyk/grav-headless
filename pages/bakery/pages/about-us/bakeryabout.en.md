@@ -5,9 +5,9 @@ image_one: desk.jpg
 paragraph_one: 'We have connected top creative, strategic and analytical minds with real life experience and levity of thousands people from our crowds. People who don’t sit in the office or development centre, but have a real life… with real problems and needs. We link ideas and insights, trends or strategies. We look for future trends. We seek diversity, new perspective and link together what seems incompatible. We listen and get inspired by the crowd. We look at numbers but don''t average them out. We regularly check temperature to know what people really feel. We want to know what our future will look like and we want to participate in it. We help individuals as well as organizations find their place in the future. We fuel brands with relevant product and experience concepts, offer a fresh perspective on your business and ideate original campaign ideas.'
 CTA_heading: 'See what this creative crowd can do...'
 menu_bakery_heading: 'Future Bakery'
-menu_bakery_text: "Get your spot in the future. \r\nProviding future thinking, innovations and a strategy. From experts already working with thousands of your future customers."
+menu_bakery_text: "Get your spot in the future. \nProviding future thinking, innovations and a strategy. From experts already working with thousands of your future customers."
 menu_bakers_heading: 'Future Bakers'
-menu_bakers_text: "Get double rewarded for your thinking. \r\nGetting paid for your ideas and having a rewarding time. Join a community of thousands who bring future value."
+menu_bakers_text: "Get double rewarded for your thinking. \nGetting paid for your ideas and having a rewarding time. Join a community of thousands who bring future value."
 menu_crowders_heading: 'Future Crowders'
 menu_crowders_text: 'Getting your future customers to contribute. Wanting to see their voice in your future to become a reality.'
 heading_two: 'Our creation process - from people to people'
@@ -45,59 +45,15 @@ svg_icons:
         svg_text: 'ANALYTICS &  ON-LINE COMMUNITY'
 logos:
     -
-        logotype: bos.png
-    -
-        logotype: bublology.png
-    -
-        logotype: captain-morgan.png
-    -
-        logotype: cebia.png
-    -
-        logotype: clavin.png
-    -
-        logotype: coyote.png
-    -
         logotype: creative-dock.png
     -
         logotype: czechinn.png
     -
         logotype: das.png
     -
-        logotype: dongoiovan.png
-    -
-        logotype: dukla.png
-    -
-        logotype: emco.png
-    -
         logotype: fiat.png
     -
-        logotype: grants.png
-    -
-        logotype: hello.png
-    -
-        logotype: hledamerodice.png
-    -
-        logotype: 'j&t-banka.png'
-    -
-        logotype: jihoceska-univerzita.png
-    -
-        logotype: jsmefer.png
-    -
-        logotype: k.png
-    -
-        logotype: keiki.png
-    -
-        logotype: klara.png
-    -
-        logotype: kofola.png
-    -
-        logotype: kooperativa.png
-    -
         logotype: logo_pscp.png
-    -
-        logotype: mallcz.png
-    -
-        logotype: mccann.png
 team:
     -
         member: 'Petr. Sees it.'
@@ -111,10 +67,10 @@ team:
         image: ALENA-green.jpg
     -
         member: 'Leon. Creates it.'
-        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \r\nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager."
+        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager."
         link_two: leon@futurebakery.cz
         image: 'Leon_FUBA ptak.jpg'
-media: 'penazka_robert_8696-2_792x1057.jpg,rainbow.svg,emco.png,pragtique.png,ntm.png,phones.svg,grants.png,muller.png,captain-morgan.png,penazka_robert_792x1057_bw-green.jpg,pscp.png,topinka_peter_792x1057_bw-green.jpg,graph.svg,creative-dock.png,Leon 3.jpg,cebia.png,penazka_robert_8696-2_792x1057_bw.jpg,das.png,clavin.png,bw_pelcova.jpg,keiki.png,hairguy.jpg,braun_alex_792x1057_bw-green.jpg,mccann.png,coyote.png,metaxa.png,gauge.svg,kofola.png,bublology.png,bos.png,desk.jpg,ALENA-green.jpg,kooperativa.png,j&t-banka.png,mallcz.png,mctree.png,unyp.png,pelcova.jpg,topinka_peter_8744-2_792x1057_bw.jpg,network.svg,fiver.svg,logo_pscp.png,hledamerodice.png,czechinn.png,hello.png,ruzovyslon.png,rohlikcz.png,rafun.png,bulb.svg,milka.png,ostravar.png,fiat.png,metlife.png,suchej-unor.png,target.svg,bang.svg,klara.png,dongoiovan.png,zonky.png,zoot.png,topinka_peter_8744-2_792x1057.jpg,dukla.png,jsmefer.png,jihoceska-univerzita.png,k.png,prvniklubova.png,__Leon 3.jpg'
+media: 'desk.jpg,Leon_FUBA ptak.jpg,dukla.png,hledamerodice.png,mccann.png,pscp.png,k.png,zonky.png,logo_pscp.png,penazka_robert_792x1057_bw-green.jpg,metaxa.png,ntm.png,mallcz.png,suchej-unor.png,network.svg,jihoceska-univerzita.png,jsmefer.png,dongoiovan.png,gauge.svg,emco.png,unyp.png,target.svg,kooperativa.png,fiver.svg,mctree.png,ruzovyslon.png,__Leon 3.jpg,penazka_robert_8696-2_792x1057.jpg,fiat.png,milka.png,ALENA-green.jpg,kofola.png,rohlikcz.png,rafun.png,metlife.png,muller.png,captain-morgan.png,clavin.png,pelcova.jpg,hairguy.jpg,rainbow.svg,j&t-banka.png,das.png,bang.svg,penazka_robert_8696-2_792x1057_bw.jpg,graph.svg,hello.png,coyote.png,topinka_peter_8744-2_792x1057.jpg,topinka_peter_8744-2_792x1057_bw.jpg,bublology.png,braun_alex_792x1057_bw-green.jpg,bos.png,prvniklubova.png,cebia.png,ostravar.png,creative-dock.png,bulb.svg,zoot.png,klara.png,pragtique.png,topinka_peter_792x1057_bw-green.jpg,bw_pelcova.jpg,czechinn.png,keiki.png,phones.svg,grants.png,Prague city tourism.png,plakatov_00.svg,Pivovary-Staropramen.jpg,Expo image.png'
 media_order: ''
 body_classes: ''
 order_by: ''
