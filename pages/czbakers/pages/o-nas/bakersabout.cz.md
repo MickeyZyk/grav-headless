@@ -40,11 +40,6 @@ team_section_heading: 'Kdo za námi stojí?'
 team_heading: 'Seznamte se s týmem'
 team:
     -
-        member: 'Robert Peňažka'
-        member_text: "Pětadvacet let jsem ve světě komunikace a kreativity. Pořád začínám, abych mohl končit a končím, abych mohl pořád začínat. Po 9 letech jsem skončil jako šéf Leo Burnett Praha, založil agenturu Kaspen, abych po 7 letech zase odešel a\_založil studio Yinachi. Hledám vášnivé klienty, propojuji světy komerce a\_umění. Stojím za projektem Kmeny, za knihami Neboj a Velký Bobek. Vydávám časopis Magnus. Jsem strejdou Kašpárka v\_rohlíku a\_festivalu Kefír. Jsem spoluzakladatelem \"Rodiče vítáni\" a\_s\_Petrem Topinkou jsme vybudovali rodinu Future Bakery."
-        link_two: robert@futurebakery.com
-        image: penazka_robert_792x1057_bw-orange.jpg
-    -
         member: 'Petr Topinka'
         member_text: 'Posledních třicel let jsem pracoval s majiteli a šéfy úspěšných firem po celém světě. Dokonce s politiky a šéfy států. Pomáhám jim se strategickým marketingem a komunikací. Dlouhá léta jsem byl spojen s agenturní sítí BBDO Worldwide. Pracoval  jsem v BBDO Toronto a vedl jsem pražskou pobočku, která stálla za výzmnamnými projekty kreativně i byznysově u nás i v regionu CEE. Našel jsem a pomohl rozvinout stovky talentů. To všechno mi pomohlo ještě líp vidět, že dav dokáže víc než ti “nahoře”. Proto jsme s Robertem Peňažkou postavili platformu Future Bakery. Aby se každý mohl podílet, abychom líp poslouchali a aby věci líp fungovaly.'
         link_two: petr@futurebakery.cz
