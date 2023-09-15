@@ -2,6 +2,7 @@
 title: Plakátov
 logo_dark: 'logo plakatov.png'
 heading_tag: 'Creative Strategy'
+heading_one: 'How to introduce Plakatov.cz as an easy support for small businesses.'
 toggle: '1'
 one_way_title: 'one way'
 one_way: 'Think of Plakátov as e-shop with posters.'
