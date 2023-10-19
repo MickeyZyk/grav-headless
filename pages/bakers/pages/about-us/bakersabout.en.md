@@ -3,7 +3,7 @@ title: 'About Us '
 heading_one: 'One Idea? Or Thousands of them?'
 subheading_one: 'A space for creative people with amazing ideas. '
 image_one: painter.jpg
-paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where idea creators – BAKERS - get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We wish to give everybody a chance to contribute and believe the more idea makers we have, the further we get.'
+paragraph_one: 'A safe place where those who are searching for the great idea meet with the ones that have them. And where they have access not just to one amazing idea, but to several of them. A place, where idea creators – BAKERS - get rewarded if their idea is selected by the client. We are a constantly growing group of bakers and creative thinkers. We believe it is important to provide a space for ideas and wonderful creations. We wish to give everybody a chance to contribute and believe the more idea makers we have, the further we get..'
 link_one: /bakerslogin
 link_one_text: 'JOIN US'
 link_one_divider: 'or find out how to'
@@ -51,7 +51,7 @@ team:
         image: ALENA-orange.jpg
     -
         member: 'Leon. Creates it.'
-        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \r\nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager."
+        member_text: "Got a problem? In human history, problem solving has always been one of the greatest sources of creativity. And the bigger the problem, the greater the creativity. \LLeon spent the last thirty years looking for answers to business problems, big and small.  Answers that combine the logic of strategy with the magic of creative thinking. Answers that help brands become part of our lives, find their place in everyday rituals and popular culture. \nThrough his long career, across many local and international brands, the key to success has always been the same. A firm believe in the power of an idea, deeply rooted in the human truth. An idea so strong, it can change our behaviour, take any shape or form and last longer, than your average marketing manager."
         link_two: leon@futurebakery.cz
         image: 'Leon_FUBA ptak.jpg'
 bakers_heading: 'Have an Idea for the future?'
